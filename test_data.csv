@@ -1,0 +1,446 @@
+age,race,gender,employment,education,married,person_living_in_house,salary,house_type,house_value,vehicle,house_rental_fee,house_loan_pmt,transport_use,transport_spending,public_transport_spending,house_utility,food_spending,kids_spending,personal_loan,education_loan,other_loan,investment
+67,Sapiens,M,Self-employed,High School,No,1,1K to 2K,Parent's house,,Local brand car,100.0,0.0,Own transport,400.0,0.0,20.0,400.0,0.0,0.0,0.0,0.0,0.0
+28,Sapiens,M,Employed,High School,No,4,1K to 2K,Parent's house,,Did not own any vehicle,0.0,0.0,Public transport,0.0,50.0,200.0,300.0,0.0,0.0,0.0,0.0,0.0
+30,Sapiens,F,Employed,Bachelor's Degree,No,4,2K to 3K,Rental house - single storey,,Motorcycle,700.0,0.0,Own transport,100.0,0.0,100.0,2000.0,0.0,0.0,200.0,0.0,0.0
+34,Sapiens,M,Employed,High School,No,3,2K to 3K,Own house - one storey terrace,,Local brand car,0.0,0.0,Own transport,200.0,0.0,400.0,500.0,0.0,0.0,0.0,0.0,0.0
+67,Kree,F,Unemployed,High School,Yes,3,Less than 1K,Own house - kampung / wooden house,Below 100K,Did not own any vehicle,0.0,0.0,,0.0,0.0,100.0,100.0,0.0,0.0,0.0,0.0,0.0
+35,Skrull,F,Employed,Diploma,Yes,4,3K to 4K,Parent's house,Below 100K,Asia brand car,0.0,0.0,Own transport,200.0,0.0,500.0,700.0,0.0,0.0,0.0,0.0,0.0
+54,Kree,M,Government retiree,High School,Yes,7,1K to 2K,Own house - one storey terrace,200K to 300K,Local brand car,0.0,330.0,,450.0,0.0,500.0,600.0,150.0,60.0,0.0,0.0,0.0
+26,Kree,F,Unemployed,Bachelor's Degree,Yes,6,3K to 4K,Parent's house,,Did not own any vehicle,0.0,0.0,,0.0,0.0,0.0,1000.0,0.0,0.0,30000.0,0.0,0.0
+33,Kree,F,Employed,Diploma,Yes,3,2K to 3K,Own house - bungalows,400K to 500K,Asia brand car,,2000.0,,1050.0,0.0,200.0,500.0,400.0,0.0,100.0,0.0,0.0
+66,Kree,M,Government retiree,High School,Yes,6,Less than 1K,Rental house - kampung / wooden house,Below 100K,Did not own any vehicle,500.0,,Own transport,0.0,,100.0,300.0,150.0,,,,
+27,Sapiens,M,Self-employed,High School,No,5,4K to 5K,Parent's house,Below 100K,Asia brand car,0.0,0.0,Own transport,400.0,0.0,200.0,180.0,0.0,0.0,0.0,950.0,0.0
+38,Kree,M,Employed,High School,Yes,3,1K to 2K,Rental house - kampung / wooden house,Below 100K,Local brand car,330.0,,Own transport,400.0,,300.0,500.0,200.0,,,,
+60,Kree,M,Self-employed,High School,Yes,4,1K to 2K,Own house - kampung / wooden house,Below 100K,Local brand car,0.0,2000.0,Own transport,1000.0,0.0,300.0,1500.0,300.0,0.0,0.0,0.0,0.0
+57,Skrull,F,Employed,High School,Yes,3,4K to 5K,Rental house - flat,Below 100K,Asia brand car,1000.0,0.0,Own transport,300.0,0.0,150.0,1000.0,800.0,0.0,0.0,0.0,0.0
+51,Kree,F,Unemployed,High School,Yes,5,1K to 2K,Own house - bungalows,Below 100K,Local brand car,0.0,150.0,Own transport,450.0,0.0,200.0,300.0,200.0,0.0,0.0,0.0,0.0
+27,Sapiens,F,Employed,Bachelor's Degree,Yes,5,3K to 4K,Parent's house,200K to 300K,Local brand car,0.0,0.0,Own transport,800.0,0.0,500.0,1500.0,500.0,0.0,200.0,0.0,0.0
+27,Skrull,F,Employed,Bachelor's Degree,Yes,4,3K to 4K,Own house - one storey terrace,100K to 200K,Local brand car,0.0,500.0,Own transport,300.0,0.0,400.0,600.0,0.0,0.0,0.0,0.0,0.0
+38,Kree,F,Employed,High School,Divorcee,6,Less than 1K,Own house - one storey terrace,100K to 200K,Did not own any vehicle,0.0,0.0,,0.0,0.0,100.0,400.0,320.0,0.0,0.0,0.0,0.0
+67,Kree,F,Unemployed,High School,Yes,3,Less than 1K,Own house - kampung / wooden house,Below 100K,Motorcycle,0.0,0.0,Own transport,50.0,0.0,150.0,100.0,50.0,0.0,0.0,0.0,0.0
+47,Kree,M,Employed,High School,Yes,8,2K to 3K,Rental house - double storey terrace,,Europe brand car,280.0,0.0,Own transport,300.0,0.0,250.0,2000.0,450.0,0.0,0.0,100.0,0.0
+50,Kree,F,Unemployed,High School,Yes,2,1K to 2K,Rental house - kampung / wooden house,,Motorcycle,200.0,0.0,Own transport,200.0,0.0,150.0,400.0,0.0,0.0,0.0,0.0,0.0
+51,Kree,F,Unemployed,Certificates,Yes,4,2K to 3K,Own house - double storey terrace,100K to 200K,Local brand car,,200.0,Own transport,500.0,0.0,400.0,300.0,300.0,500.0,0.0,0.0,0.0
+31,Others,F,Employed,Diploma,Yes,4,2K to 3K,Rental house - double storey terrace,,Local brand car,480.0,0.0,Own transport,780.0,0.0,90.0,400.0,0.0,0.0,114.0,0.0,0.0
+58,Kree,F,Unemployed,Bachelor's Degree,Yes,6,Less than 1K,Own house - double storey terrace,500K to 600K,Asia brand car,0.0,0.0,Own transport,200.0,0.0,300.0,1000.0,1000.0,0.0,0.0,0.0,0.0
+25,Sapiens,F,Employed,Certificates,No,6,2K to 3K,Rental house - flat,,Did not own any vehicle,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+33,Sapiens,M,Employed,Bachelor's Degree,Yes,3,2K to 3K,Own house - double storey terrace,500K to 600K,Europe brand car,0.0,2000.0,Own transport,1500.0,0.0,300.0,1000.0,500.0,0.0,0.0,1000.0,0.0
+63,Kree,F,Government retiree,High School,Yes,3,,Own house - one storey terrace,100K to 200K,Local brand car,0.0,524.0,Own transport,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0
+60,Skrull,M,Self-employed,High School,Yes,3,2K to 3K,Own house - one storey terrace,Below 100K,Local brand car,0.0,1500.0,Own transport,500.0,0.0,150.0,600.0,0.0,0.0,0.0,0.0,0.0
+35,Kree,F,Employed,High School,Yes,3,Less than 1K,Own house - kampung / wooden house,100K to 200K,Motorcycle,0.0,0.0,Own transport,100.0,0.0,50.0,300.0,100.0,0.0,0.0,0.0,0.0
+73,Kree,F,Unemployed,High School,Divorcee,,,,,,,,,,,,,,,,,
+31,Kree,F,Employed,Diploma,Yes,3,3K to 4K,Rental house - bungalows,,Local brand car,750.0,0.0,Own transport,800.0,0.0,200.0,500.0,150.0,200.0,50.0,0.0,0.0
+38,Sapiens,F,Self-employed,Bachelor's Degree,Yes,5,2K to 3K,Own house - one storey terrace,200K to 300K,Asia brand car,0.0,0.0,,600.0,0.0,250.0,600.0,150.0,0.0,0.0,200.0,0.0
+54,Skrull,M,Employed,High School,Yes,5,1K to 2K,Rental house - single storey,,Motorcycle,300.0,80.0,Own transport,150.0,0.0,300.0,400.0,200.0,0.0,0.0,0.0,0.0
+60,Kree,M,Government retiree,Bachelor's Degree,Yes,3,4K to 5K,Own house - one storey terrace,200K to 300K,Asia brand car,0.0,0.0,,200.0,0.0,200.0,400.0,0.0,0.0,0.0,0.0,0.0
+61,Kree,M,Government retiree,High School,Yes,7,2K to 3K,Own house - one storey terrace,500K to 600K,Local brand car,0.0,0.0,Own transport,150.0,0.0,500.0,400.0,200.0,0.0,0.0,0.0,0.0
+43,Skrull,F,Employed,High School,No,4,1K to 2K,Parent's house,,Did not own any vehicle,0.0,0.0,Public transport,0.0,150.0,500.0,700.0,0.0,0.0,0.0,0.0,0.0
+35,Kree,F,Self-employed,Bachelor's Degree,No,1,1K to 2K,Parent's house,,Motorcycle,0.0,0.0,Own transport,100.0,0.0,100.0,200.0,0.0,0.0,300.0,0.0,0.0
+36,Skrull,F,Employed,High School,Yes,4,2K to 3K,Rental house - single storey,,Motorcycle,400.0,0.0,Own transport,20.0,0.0,100.0,400.0,75.0,0.0,0.0,0.0,0.0
+51,Sapiens,F,Unemployed,High School,Yes,5,2K to 3K,Own house - one storey terrace,200K to 300K,Local brand car,0.0,0.0,Own transport,200.0,0.0,300.0,700.0,0.0,0.0,0.0,0.0,0.0
+51,Kree,M,Unemployed,High School,Yes,10 or more,Less than 1K,Own house - kampung / wooden house,Below 100K,Local brand car,0.0,0.0,,200.0,0.0,100.0,500.0,800.0,0.0,0.0,400.0,0.0
+52,Sapiens,F,Employed,Bachelor's Degree,Yes,5,10K or more,Own house - double storey terrace,400K to 500K,Asia brand car,0.0,0.0,Own transport,1300.0,0.0,300.0,300.0,4000.0,0.0,0.0,0.0,0.0
+26,Kree,M,Employed,Diploma,No,8,2K to 3K,Rental house - kampung / wooden house,,Motorcycle,500.0,0.0,Own transport & Public transport,150.0,100.0,200.0,600.0,300.0,0.0,0.0,300.0,0.0
+31,Sapiens,M,Unemployed,High School,No,1,Less than 1K,Parent's house,,Did not own any vehicle,0.0,0.0,,0.0,0.0,0.0,300.0,0.0,0.0,0.0,0.0,0.0
+64,Kree,M,Self-employed,High School,Yes,3,Less than 1K,Own house - one storey terrace,,Local brand car,0.0,0.0,Own transport,450.0,0.0,50.0,400.0,0.0,0.0,0.0,0.0,0.0
+55,Kree,F,Unemployed,High School,Yes,2,2K to 3K,Own house - double storey terrace,,Local brand car,800.0,0.0,,300.0,0.0,500.0,1000.0,0.0,0.0,0.0,0.0,0.0
+60,Skrull,F,Employed,High School,No,2,Less than 1K,Own house - kampung / wooden house,Below 100K,Motorcycle,0.0,0.0,Own transport,150.0,0.0,400.0,0.0,0.0,0.0,0.0,0.0,0.0
+56,Skrull,M,Self-employed,High School,Yes,4,1K to 2K,Own house - one storey terrace,Below 100K,Asia brand car,0.0,0.0,Own transport,600.0,0.0,150.0,500.0,300.0,0.0,0.0,0.0,0.0
+69,Skrull,F,Employed,High School,Divorcee,1,Less than 1K,Rental house - kampung / wooden house,,Did not own any vehicle,300.0,0.0,Public transport,0.0,72.0,50.0,500.0,0.0,0.0,0.0,0.0,0.0
+71,Kree,M,Private sector retiree,High School,Yes,2,Less than 1K,Own house - one storey terrace,Below 100K,Local brand car,0.0,0.0,Own transport,200.0,0.0,100.0,200.0,0.0,0.0,0.0,0.0,0.0
+52,Kree,F,Unemployed,High School,Yes,3,1K to 2K,Own house - kampung / wooden house,Below 100K,Local brand car,0.0,0.0,Own transport,500.0,0.0,200.0,550.0,500.0,0.0,0.0,0.0,0.0
+51,Kree,M,Employed,High School,Yes,5,1K to 2K,Rental house - kampung / wooden house,,Motorcycle,200.0,,Own transport,70.0,0.0,50.0,400.0,300.0,0.0,0.0,0.0,0.0
+62,Sapiens,F,Unemployed,High School,Yes,7,Less than 1K,Own house - double storey terrace,500K to 600K,Local brand car,0.0,0.0,Own transport,500.0,0.0,500.0,600.0,500.0,0.0,0.0,0.0,0.0
+56,Skrull,F,Government retiree,High School,Yes,2,3K to 4K,Own house - double storey terrace,200K to 300K,Asia brand car,900.0,0.0,,200.0,0.0,100.0,300.0,,0.0,0.0,0.0,0.0
+74,Kree,F,Unemployed,High School,Yes,3,Less than 1K,Rental house - bungalows,Below 100K,Did not own any vehicle,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+28,Sapiens,M,Employed,Bachelor's Degree,No,7,1K to 2K,Parent's house,,Did not own any vehicle,0.0,0.0,,0.0,0.0,200.0,500.0,0.0,0.0,0.0,0.0,0.0
+49,Kree,M,Self-employed,High School,Yes,6,1K to 2K,Parent's house,,Motorcycle,0.0,0.0,Own transport,35.0,,200.0,600.0,150.0,0.0,0.0,0.0,0.0
+38,Kree,M,Self-employed,Certificates,Yes,5,5K to 6K,Rental house - bungalows,300K to 400K,Asia brand car,,1400.0,Own transport,2000.0,,300.0,1500.0,500.0,0.0,0.0,0.0,0.0
+48,Sapiens,M,Self-employed,High School,No,3,2K to 3K,Parent's house,,Local brand car,0.0,0.0,Own transport,900.0,0.0,170.0,900.0,0.0,0.0,0.0,0.0,0.0
+41,Sapiens,F,Employed,High School,No,3,2K to 3K,Parent's house,,Did not own any vehicle,0.0,0.0,,0.0,50.0,300.0,1000.0,0.0,0.0,0.0,300.0,0.0
+37,Kree,F,Employed,High School,Yes,5,2K to 3K,Parent's house,,Local brand car,0.0,0.0,Own transport,900.0,0.0,300.0,600.0,600.0,0.0,0.0,0.0,0.0
+27,Kree,M,Employed,Diploma,Yes,3,1K to 2K,Rental house - kampung / wooden house,,Local brand car,600.0,0.0,Own transport,400.0,0.0,100.0,500.0,200.0,0.0,0.0,0.0,0.0
+53,Sapiens,M,Employed,High School,Yes,5,2K to 3K,Own house - one storey terrace,100K to 200K,Local brand car,0.0,400.0,Own transport,200.0,0.0,460.0,400.0,0.0,0.0,0.0,0.0,0.0
+69,Skrull,F,Unemployed,High School,Yes,1,Less than 1K,Parent's house,Below 100K,Did not own any vehicle,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+28,Sapiens,M,Employed,Bachelor's Degree,No,5,3K to 4K,Parent's house,,Motorcycle,0.0,0.0,Own transport,300.0,0.0,300.0,400.0,0.0,0.0,100.0,0.0,0.0
+25,Kree,M,Employed,Bachelor's Degree,No,4,2K to 3K,Rental house - single storey,,Local brand car,230.0,0.0,Own transport,1200.0,0.0,0.0,600.0,0.0,0.0,100.0,0.0,0.0
+32,Kree,F,Unemployed,Bachelor's Degree,Yes,5,7K to 8K,Rental house - flat,300K to 400K,Local brand car,0.0,950.0,Own transport,800.0,0.0,100.0,1000.0,150.0,0.0,100.0,0.0,0.0
+43,Kree,M,Employed,Bachelor's Degree,Yes,3,5K to 6K,Parent's house,,Local brand car,0.0,0.0,,1000.0,0.0,400.0,2000.0,1000.0,2000.0,0.0,0.0,0.0
+38,Sapiens,F,Unemployed,High School,Yes,4,3K to 4K,Parent's house,,Did not own any vehicle,0.0,0.0,,0.0,0.0,500.0,1000.0,500.0,0.0,0.0,0.0,0.0
+30,Sapiens,F,Employed,Bachelor's Degree,No,7,5K to 6K,Parent's house,,Asia brand car,0.0,0.0,Own transport & Public transport,200.0,50.0,200.0,600.0,0.0,0.0,0.0,0.0,0.0
+30,Skrull,M,Self-employed,Diploma,No,6,Less than 1K,Parent's house,,Asia brand car,,,Own transport,900.0,,80.0,1500.0,0.0,0.0,270.0,0.0,0.0
+31,Sapiens,F,Employed,High School,Yes,3,5K to 6K,Parent's house,,Local brand car,0.0,0.0,Own transport,800.0,0.0,0.0,300.0,0.0,0.0,0.0,0.0,0.0
+69,Kree,M,Government retiree,High School,Yes,1,Less than 1K,Parent's house,,Local brand car,0.0,0.0,Own transport,100.0,0.0,150.0,200.0,0.0,0.0,0.0,0.0,0.0
+45,Skrull,M,Employed,Diploma,Divorcee,2,2K to 3K,Own house - kampung / wooden house,100K to 200K,Local brand car,,0.0,Own transport,750.0,,220.0,900.0,0.0,568.0,,450.0,
+64,Sapiens,M,Unemployed,High School,Yes,4,Less than 1K,Parent's house,,Did not own any vehicle,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30,Sapiens,F,Employed,High School,No,3,1K to 2K,Rental house - kampung / wooden house,,Local brand car,0.0,0.0,Own transport,100.0,0.0,200.0,400.0,0.0,0.0,0.0,0.0,0.0
+25,Sapiens,M,Employed,Bachelor's Degree,No,5,2K to 3K,Parent's house,,Did not own any vehicle,0.0,0.0,,0.0,0.0,0.0,300.0,0.0,0.0,30000.0,0.0,0.0
+28,Kree,F,Employed,Bachelor's Degree,Yes,3,4K to 5K,Rental house - single storey,,Local brand car,350.0,0.0,Own transport,300.0,0.0,100.0,400.0,600.0,0.0,139.0,0.0,0.0
+61,Sapiens,F,Unemployed,High School,Yes,3,Less than 1K,Parent's house,,Did not own any vehicle,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+57,Kree,M,Private sector retiree,Diploma,Yes,6,2K to 3K,Own house - one storey terrace,300K to 400K,Motorcycle,,0.0,Own transport,40.0,,70.0,1500.0,0.0,,,,
+53,Sapiens,M,Employed,Diploma,Yes,4,7K to 8K,Rental house - single storey,400K to 500K,Local brand car,800.0,0.0,Own transport,500.0,0.0,300.0,1000.0,500.0,0.0,0.0,70.0,0.0
+62,Sapiens,M,Private sector retiree,High School,Yes,2,Less than 1K,Parent's house,,Did not own any vehicle,0.0,0.0,,0.0,0.0,100.0,400.0,0.0,0.0,0.0,0.0,0.0
+47,Sapiens,F,Employed,High School,Yes,9,Less than 1K,Own house - double storey terrace,300K to 400K,Local brand car,0.0,0.0,Own transport,500.0,0.0,200.0,300.0,200.0,0.0,3000.0,0.0,0.0
+53,Skrull,F,Employed,High School,Divorcee,2,Less than 1K,Rental house - single storey,,Did not own any vehicle,400.0,0.0,,0.0,0.0,100.0,300.0,200.0,0.0,0.0,0.0,0.0
+37,Kree,M,Self-employed,Certificates,Yes,5,3K to 4K,Own house - bungalows,600K to 700K,Local brand car,0.0,2000.0,Own transport,400.0,0.0,300.0,500.0,700.0,0.0,0.0,0.0,0.0
+32,Kree,M,Employed,Diploma,Yes,4,9K to 10K,Own house - double storey terrace,More than 1M,Asia brand car,0.0,800.0,Own transport,500.0,0.0,400.0,1000.0,1000.0,1500.0,0.0,0.0,0.0
+40,Kree,F,Employed,Bachelor's Degree,Yes,3,4K to 5K,Own house - one storey terrace,,Asia brand car,0.0,1500.0,Own transport,1500.0,0.0,400.0,500.0,300.0,0.0,0.0,0.0,0.0
+72,Kree,F,Unemployed,High School,Divorcee,1,1K to 2K,Own house - one storey terrace,Below 100K,Did not own any vehicle,,0.0,Own transport,0.0,,100.0,400.0,0.0,,,,
+67,Kree,M,Self-employed,High School,Yes,8,Less than 1K,Own house - kampung / wooden house,Below 100K,Motorcycle,0.0,0.0,Own transport,50.0,,50.0,300.0,0.0,0.0,0.0,0.0,0.0
+53,Kree,F,Employed,High School,Yes,6,1K to 2K,Own house - kampung / wooden house,Below 100K,Motorcycle,0.0,0.0,Own transport,120.0,0.0,150.0,600.0,300.0,0.0,0.0,240.0,0.0
+39,Kree,F,Unemployed,High School,Yes,4,Less than 1K,Rental house - kampung / wooden house,Below 100K,Did not own any vehicle,0.0,0.0,,0.0,0.0,60.0,1000.0,200.0,0.0,0.0,0.0,0.0
+49,Skrull,M,Employed,High School,Yes,7,1K to 2K,Own house - flat,Below 100K,Local brand car,124.0,0.0,Own transport,500.0,0.0,250.0,1500.0,500.0,0.0,0.0,0.0,0.0
+74,Kree,M,Self-employed,High School,Yes,3,Less than 1K,Own house - kampung / wooden house,Below 100K,Motorcycle,0.0,0.0,Own transport,400.0,0.0,40.0,400.0,0.0,0.0,0.0,0.0,0.0
+69,Kree,M,Government retiree,High School,Yes,4,1K to 2K,Own house - one storey terrace,100K to 200K,Local brand car,0.0,0.0,Own transport,295.0,,500.0,400.0,300.0,317.0,,,
+42,Skrull,F,Unemployed,Diploma,No,4,Less than 1K,Parent's house,,Did not own any vehicle,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+55,Skrull,F,Unemployed,High School,Yes,2,Less than 1K,Own house - one storey terrace,Below 100K,Local brand car,0.0,0.0,Own transport,150.0,0.0,50.0,400.0,0.0,0.0,0.0,0.0,0.0
+70,Sapiens,M,Private sector retiree,High School,Yes,6,Less than 1K,Parent's house,,Local brand car,0.0,0.0,Own transport,200.0,0.0,0.0,50.0,0.0,0.0,0.0,0.0,0.0
+66,Sapiens,M,Unemployed,High School,Yes,6,Less than 1K,Own house - kampung / wooden house,100K to 200K,Motorcycle,0.0,0.0,Own transport,40.0,0.0,300.0,400.0,0.0,0.0,0.0,0.0,0.0
+61,Kree,M,Unemployed,High School,Yes,2,Less than 1K,Own house - kampung / wooden house,Below 100K,Motorcycle,0.0,0.0,Own transport,20.0,0.0,300.0,300.0,600.0,0.0,0.0,0.0,0.0
+67,Sapiens,M,Unemployed,High School,No,2,Less than 1K,Parent's house,,Did not own any vehicle,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+45,Sapiens,M,Employed,High School,Yes,7,1K to 2K,Parent's house,,Did not own any vehicle,0.0,0.0,,0.0,0.0,0.0,300.0,0.0,0.0,0.0,0.0,0.0
+51,Sapiens,F,Unemployed,Diploma,Yes,5,Less than 1K,Own house - double storey terrace,500K to 600K,Local brand car,0.0,0.0,Own transport,200.0,0.0,200.0,1500.0,0.0,0.0,0.0,0.0,0.0
+42,Kree,M,Employed,High School,Yes,4,3K to 4K,Rental house - flat,,Local brand car,900.0,0.0,Own transport,850.0,0.0,250.0,300.0,250.0,0.0,0.0,130.0,0.0
+43,Skrull,M,Employed,High School,Yes,5,3K to 4K,Rental house - flat,,Local brand car,600.0,0.0,Own transport,1000.0,0.0,200.0,500.0,300.0,0.0,0.0,0.0,0.0
+24,Kree,F,Unemployed,Diploma,No,5,Less than 1K,Parent's house,Below 100K,Local brand car,0.0,0.0,Own transport,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+32,Kree,M,Employed,Certificates,Yes,3,2K to 3K,Rental house - single storey,Below 100K,Local brand car,400.0,0.0,Own transport,600.0,0.0,350.0,600.0,400.0,0.0,0.0,0.0,0.0
+32,Sapiens,M,Employed,Diploma,Yes,2,10K or more,Own house - one storey terrace,400K to 500K,Local brand car,0.0,2000.0,,200.0,0.0,400.0,600.0,0.0,0.0,0.0,0.0,0.0
+47,Skrull,F,Employed,Certificates,Divorcee,5,2K to 3K,Own house - one storey terrace,Below 100K,Did not own any vehicle,0.0,1000.0,Public transport,0.0,500.0,300.0,500.0,400.0,0.0,0.0,0.0,0.0
+63,Skrull,F,Unemployed,High School,Yes,4,Less than 1K,Parent's house,,Did not own any vehicle,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+68,Kree,M,Private sector retiree,High School,Yes,2,Less than 1K,Parent's house,,Local brand car,0.0,0.0,Public transport,0.0,70.0,200.0,500.0,0.0,0.0,0.0,0.0,0.0
+49,Skrull,F,Unemployed,High School,Yes,5,2K to 3K,Parent's house,,Did not own any vehicle,0.0,0.0,,0.0,0.0,300.0,700.0,200.0,0.0,0.0,0.0,0.0
+38,Sapiens,M,Employed,Bachelor's Degree,Yes,3,10K or more,Own house - condominiums,600K to 700K,Asia brand car,0.0,3000.0,Own transport,1200.0,0.0,300.0,1500.0,2000.0,500.0,200.0,0.0,0.0
+55,Kree,F,Employed,High School,Divorcee,6,1K to 2K,Rental house - kampung / wooden house,,Motorcycle,100.0,0.0,,100.0,0.0,200.0,600.0,200.0,0.0,0.0,0.0,0.0
+30,Sapiens,F,Self-employed,Bachelor's Degree,No,1,3K to 4K,Rental house - single storey,,Asia brand car,500.0,0.0,Own transport,500.0,0.0,200.0,300.0,0.0,0.0,200.0,0.0,0.0
+71,Kree,M,Self-employed,High School,Yes,7,Less than 1K,Own house - kampung / wooden house,Below 100K,Local brand car,0.0,0.0,Own transport,100.0,0.0,300.0,500.0,0.0,0.0,0.0,0.0,0.0
+72,Kree,F,Unemployed,High School,Divorcee,2,Less than 1K,Own house - kampung / wooden house,Below 100K,Did not own any vehicle,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+41,Kree,F,Others,High School,Yes,4,3K to 4K,Own house - kampung / wooden house,Below 100K,Local brand car,0.0,0.0,Own transport,400.0,,200.0,500.0,0.0,0.0,0.0,0.0,280.0
+35,Sapiens,F,Employed,Bachelor's Degree,No,5,2K to 3K,Parent's house,,Local brand car,0.0,0.0,Own transport,650.0,0.0,100.0,500.0,0.0,0.0,0.0,0.0,0.0
+48,Others,M,Unemployed,High School,No,7,1K to 2K,Own house - kampung / wooden house,Below 100K,Did not own any vehicle,0.0,0.0,,0.0,0.0,150.0,200.0,0.0,0.0,0.0,0.0,0.0
+27,Kree,M,Employed,Diploma,Yes,1,1K to 2K,Parent's house,,Did not own any vehicle,0.0,0.0,Public transport,0.0,200.0,100.0,600.0,0.0,0.0,200.0,0.0,0.0
+51,Skrull,F,Unemployed,High School,Yes,6,2K to 3K,Rental house - single storey,,Local brand car,1000.0,0.0,Own transport,800.0,0.0,300.0,800.0,0.0,0.0,0.0,0.0,0.0
+65,Kree,F,Unemployed,High School,No,5,Less than 1K,Parent's house,,Motorcycle,0.0,0.0,Own transport,20.0,0.0,60.0,500.0,0.0,0.0,0.0,0.0,0.0
+57,Skrull,M,Employed,Diploma,Yes,5,5K to 6K,Own house - one storey terrace,100K to 200K,Local brand car,1000.0,0.0,Own transport,500.0,0.0,600.0,1500.0,1000.0,0.0,0.0,0.0,0.0
+50,Skrull,F,Unemployed,High School,Yes,4,2K to 3K,Own house - kampung / wooden house,Below 100K,Local brand car,0.0,800.0,Own transport,100.0,0.0,150.0,50.0,0.0,0.0,0.0,0.0,0.0
+44,Sapiens,F,Unemployed,Diploma,Yes,2,Less than 1K,Own house - condominiums,100K to 200K,Europe brand car,0.0,0.0,Own transport,50.0,0.0,150.0,600.0,0.0,0.0,0.0,0.0,0.0
+59,Skrull,F,Self-employed,High School,Yes,3,Less than 1K,Rental house - flat,100K to 200K,Did not own any vehicle,124.0,0.0,,0.0,0.0,100.0,350.0,100.0,0.0,0.0,0.0,0.0
+27,Sapiens,F,Employed,Bachelor's Degree,No,3,1K to 2K,Own house - one storey terrace,100K to 200K,Did not own any vehicle,0.0,0.0,Public transport,,300.0,200.0,100.0,0.0,0.0,0.0,0.0,0.0
+65,Kree,M,Government retiree,High School,Yes,5,Less than 1K,Own house - one storey terrace,100K to 200K,Local brand car,0.0,0.0,Own transport,50.0,0.0,300.0,500.0,0.0,0.0,0.0,0.0,0.0
+75,Kree,F,Government retiree,High School,Yes,1,Less than 1K,Own house - one storey terrace,100K to 200K,Did not own any vehicle,0.0,0.0,,0.0,0.0,300.0,400.0,0.0,0.0,0.0,420.0,0.0
+60,Kree,F,Unemployed,High School,Yes,2,Less than 1K,Own house - kampung / wooden house,Below 100K,Did not own any vehicle,0.0,0.0,,0.0,0.0,0.0,200.0,0.0,0.0,0.0,0.0,0.0
+46,Sapiens,F,Employed,Certificates,Yes,4,10K or more,Own house - one storey terrace,700K to 800K,Asia brand car,0.0,5000.0,Own transport,700.0,0.0,500.0,1500.0,3000.0,0.0,0.0,0.0,0.0
+35,Kree,F,Employed,Diploma,Divorcee,4,1K to 2K,Own house - kampung / wooden house,Below 100K,Local brand car,0.0,0.0,Own transport,150.0,0.0,300.0,400.0,0.0,0.0,100.0,0.0,200.0
+26,Sapiens,F,Employed,Diploma,Yes,3,3K to 4K,Parent's house,,Local brand car,0.0,0.0,Own transport,400.0,0.0,500.0,1500.0,0.0,0.0,0.0,0.0,0.0
+31,Sapiens,F,Employed,Bachelor's Degree,No,1,7K to 8K,Rental house - condominiums,,Asia brand car,1000.0,0.0,Own transport,1200.0,0.0,300.0,1500.0,1000.0,0.0,0.0,0.0,0.0
+60,Kree,M,Employed,High School,Yes,2,1K to 2K,Own house - one storey terrace,100K to 200K,Motorcycle,0.0,0.0,Own transport,100.0,0.0,150.0,500.0,300.0,0.0,0.0,0.0,0.0
+41,Sapiens,F,Employed,Diploma,No,3,4K to 5K,Parent's house,,Asia brand car,0.0,700.0,Own transport,150.0,0.0,500.0,400.0,700.0,0.0,0.0,0.0,0.0
+52,Sapiens,F,Employed,Diploma,Yes,6,3K to 4K,Own house - double storey terrace,300K to 400K,Local brand car,,1800.0,Own transport,1050.0,0.0,600.0,2000.0,2146.0,0.0,0.0,0.0,0.0
+49,Kree,M,Employed,High School,Yes,7,3K to 4K,Rental house - single storey,,Local brand car,400.0,0.0,Own transport,300.0,0.0,700.0,400.0,200.0,0.0,0.0,400.0,0.0
+40,Skrull,M,Employed,High School,Yes,6,2K to 3K,Parent's house,,Local brand car,0.0,0.0,Own transport,200.0,0.0,400.0,500.0,300.0,500.0,0.0,0.0,0.0
+30,Kree,M,Employed,High School,No,1,1K to 2K,Parent's house,,Local brand car,0.0,0.0,Own transport,600.0,0.0,150.0,100.0,0.0,0.0,0.0,0.0,0.0
+34,Skrull,M,Employed,Bachelor's Degree,Yes,4,Less than 1K,Own house - bungalows,600K to 700K,Europe brand car,0.0,0.0,Own transport,3000.0,0.0,200.0,2000.0,2000.0,1000.0,0.0,0.0,0.0
+60,Sapiens,F,Unemployed,Diploma,Yes,4,Less than 1K,Own house - condominiums,200K to 300K,Asia brand car,0.0,2000.0,Own transport,300.0,0.0,2000.0,0.0,0.0,0.0,0.0,0.0,0.0
+34,Kree,F,Employed,Diploma,Yes,3,5K to 6K,Rental house - single storey,,Local brand car,500.0,0.0,Own transport,1000.0,0.0,300.0,500.0,400.0,0.0,200.0,0.0,0.0
+56,Skrull,F,Unemployed,High School,Yes,4,Less than 1K,Rental house - single storey,,Did not own any vehicle,450.0,0.0,,0.0,0.0,100.0,1000.0,0.0,0.0,0.0,0.0,0.0
+42,Skrull,F,Self-employed,Bachelor's Degree,No,1,2K to 3K,Rental house - flat,,Asia brand car,700.0,,Own transport,1500.0,,250.0,200.0,0.0,,,,
+27,Sapiens,F,Employed,Bachelor's Degree,No,5,5K to 6K,Own house - one storey terrace,500K to 600K,Did not own any vehicle,0.0,1500.0,Public transport,0.0,200.0,500.0,3000.0,0.0,0.0,275.0,200.0,0.0
+63,Others,M,Self-employed,High School,Yes,2,Less than 1K,Own house - kampung / wooden house,,Motorcycle,0.0,0.0,Own transport,50.0,0.0,0.0,300.0,0.0,0.0,0.0,0.0,0.0
+55,Skrull,F,Employed,High School,Yes,2,1K to 2K,Rental house - single storey,Below 100K,Local brand car,0.0,450.0,Own transport,0.0,0.0,300.0,300.0,0.0,0.0,0.0,0.0,0.0
+31,Sapiens,F,Unemployed,High School,Yes,6,2K to 3K,Rental house - condominiums,Below 100K,Local brand car,650.0,,Own transport,700.0,,210.0,800.0,100.0,,,550.0,
+61,Skrull,F,Unemployed,High School,Yes,3,Less than 1K,Own house - one storey terrace,100K to 200K,Did not own any vehicle,0.0,0.0,,150.0,0.0,150.0,200.0,200.0,0.0,0.0,50.0,0.0
+24,Sapiens,M,Employed,Diploma,No,4,1K to 2K,Rental house - kampung / wooden house,,Did not own any vehicle,,,Own transport,60.0,,0.0,500.0,0.0,0.0,110.0,0.0,0.0
+36,Others,F,Unemployed,High School,Yes,5,Less than 1K,Own house - kampung / wooden house,Below 100K,Did not own any vehicle,0.0,0.0,,0.0,0.0,0.0,100.0,100.0,0.0,0.0,0.0,0.0
+30,Sapiens,M,Employed,Bachelor's Degree,No,4,3K to 4K,Parent's house,,Local brand car,0.0,0.0,Own transport,800.0,0.0,400.0,800.0,1000.0,0.0,300.0,0.0,0.0
+54,Sapiens,M,Employed,High School,Yes,5,2K to 3K,Parent's house,Below 100K,Local brand car,0.0,0.0,Own transport,200.0,0.0,600.0,300.0,600.0,0.0,0.0,0.0,0.0
+48,Sapiens,F,Employed,High School,Yes,7,2K to 3K,Own house - one storey terrace,Below 100K,Local brand car,0.0,0.0,Own transport,500.0,0.0,400.0,1000.0,0.0,0.0,0.0,0.0,0.0
+37,Kree,F,Unemployed,High School,Yes,5,1K to 2K,Own house - kampung / wooden house,Below 100K,Motorcycle,0.0,0.0,Own transport,30.0,0.0,500.0,1500.0,2000.0,0.0,0.0,0.0,0.0
+52,Sapiens,M,Self-employed,High School,Yes,2,2K to 3K,Own house - one storey terrace,200K to 300K,Local brand car,0.0,0.0,Own transport,300.0,0.0,80.0,500.0,0.0,0.0,0.0,0.0,0.0
+61,Kree,M,Self-employed,High School,Yes,5,Less than 1K,Parent's house,,Local brand car,0.0,0.0,Own transport,300.0,0.0,110.0,400.0,1000.0,0.0,0.0,0.0,0.0
+63,Skrull,F,Employed,High School,Divorcee,2,1K to 2K,Rental house - single storey,,Did not own any vehicle,600.0,0.0,,0.0,0.0,100.0,200.0,0.0,0.0,0.0,0.0,0.0
+30,Kree,M,Employed,Diploma,Yes,2,2K to 3K,Parent's house,,Motorcycle,0.0,0.0,Own transport,70.0,0.0,100.0,600.0,0.0,170.0,100.0,0.0,0.0
+38,Kree,F,Employed,Bachelor's Degree,Yes,5,10K or more,Own house - double storey terrace,300K to 400K,Europe brand car,0.0,1500.0,Own transport,300.0,0.0,300.0,500.0,1500.0,0.0,0.0,0.0,0.0
+37,Kree,F,Employed,Diploma,No,4,3K to 4K,Parent's house,Below 100K,Local brand car,0.0,0.0,Own transport,250.0,0.0,400.0,1000.0,0.0,0.0,0.0,0.0,0.0
+30,Sapiens,F,Unemployed,Diploma,No,7,4K to 5K,Own house - double storey terrace,200K to 300K,Local brand car,0.0,0.0,Own transport,400.0,0.0,300.0,1000.0,0.0,0.0,0.0,0.0,0.0
+33,Others,F,Unemployed,High School,Yes,6,,Rental house - kampung / wooden house,,Local brand car,0.0,0.0,Own transport,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+59,Skrull,M,Unemployed,High School,Yes,1,Less than 1K,Rental house - flat,,Did not own any vehicle,97.0,0.0,,0.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0
+62,Skrull,M,Employed,High School,Yes,10 or more,Less than 1K,Rental house - kampung / wooden house,,Asia brand car,400.0,0.0,Own transport,400.0,0.0,50.0,700.0,0.0,0.0,0.0,0.0,0.0
+63,Sapiens,M,Self-employed,High School,Yes,3,1K to 2K,Own house - kampung / wooden house,Below 100K,Local brand car,0.0,0.0,,100.0,0.0,100.0,500.0,0.0,0.0,0.0,0.0,0.0
+60,Sapiens,M,Government retiree,Bachelor's Degree,Yes,3,10K or more,Own house - bungalows,800K to 1M,Europe brand car,0.0,10000.0,Own transport,0.0,1000.0,500.0,2000.0,1000.0,0.0,0.0,0.0,0.0
+25,Kree,F,Unemployed,Bachelor's Degree,No,4,Less than 1K,Rental house - flat,Below 100K,Did not own any vehicle,118.0,0.0,,0.0,0.0,50.0,450.0,,0.0,110.0,0.0,0.0
+63,Kree,M,Government retiree,High School,No,7,Less than 1K,Own house - kampung / wooden house,Below 100K,Local brand car,0.0,0.0,Own transport,20.0,0.0,60.0,0.0,350.0,0.0,0.0,500.0,0.0
+32,Kree,M,Employed,High School,Yes,5,2K to 3K,Parent's house,,Local brand car,300.0,0.0,Own transport,1000.0,0.0,200.0,500.0,300.0,0.0,0.0,0.0,0.0
+58,Skrull,F,Unemployed,High School,Yes,5,Less than 1K,Own house - kampung / wooden house,Below 100K,Motorcycle,0.0,0.0,,200.0,50.0,30.0,0.0,0.0,0.0,0.0,100.0,0.0
+41,Kree,M,Self-employed,High School,Yes,5,1K to 2K,Own house - kampung / wooden house,Below 100K,Local brand car,0.0,0.0,Own transport,600.0,0.0,130.0,900.0,500.0,0.0,0.0,0.0,0.0
+39,Sapiens,F,Employed,Bachelor's Degree,Yes,4,7K to 8K,Own house - double storey terrace,200K to 300K,Asia brand car,0.0,1000.0,Own transport,1000.0,0.0,500.0,1000.0,1000.0,0.0,0.0,0.0,0.0
+26,Sapiens,F,Employed,Diploma,Yes,3,3K to 4K,Rental house - kampung / wooden house,Below 100K,Did not own any vehicle,600.0,0.0,,0.0,0.0,150.0,600.0,400.0,0.0,0.0,0.0,0.0
+54,Sapiens,F,Unemployed,Bachelor's Degree,Yes,5,10K or more,Own house - condominiums,Below 100K,Europe brand car,0.0,300.0,Own transport,100.0,0.0,350.0,300.0,500.0,0.0,0.0,0.0,0.0
+51,Kree,M,Employed,High School,Yes,2,1K to 2K,Rental house - flat,,Motorcycle,400.0,0.0,Own transport,300.0,0.0,70.0,300.0,0.0,0.0,0.0,0.0,0.0
+60,Kree,M,Self-employed,Diploma,Yes,8,2K to 3K,Own house - kampung / wooden house,100K to 200K,Asia brand car,0.0,0.0,Own transport,300.0,0.0,300.0,600.0,200.0,0.0,0.0,0.0,0.0
+70,Kree,F,Unemployed,High School,Yes,3,Less than 1K,Own house - bungalows,100K to 200K,Did not own any vehicle,0.0,0.0,,0.0,0.0,100.0,200.0,0.0,0.0,0.0,0.0,0.0
+40,Kree,F,Unemployed,Bachelor's Degree,Yes,6,3K to 4K,Own house - kampung / wooden house,Below 100K,Local brand car,0.0,1000.0,Own transport,400.0,0.0,200.0,1000.0,1000.0,1000.0,0.0,0.0,0.0
+39,Kree,M,Unemployed,High School,No,3,Less than 1K,Parent's house,,Motorcycle,0.0,0.0,Own transport,200.0,,300.0,400.0,0.0,0.0,0.0,0.0,0.0
+68,Sapiens,M,Private sector retiree,Diploma,Yes,2,,Own house - double storey terrace,300K to 400K,Local brand car,0.0,0.0,Own transport,200.0,0.0,200.0,600.0,0.0,0.0,0.0,0.0,0.0
+44,Sapiens,F,Employed,Diploma,Yes,8,5K to 6K,Parent's house,,Local brand car,0.0,0.0,Own transport,500.0,0.0,300.0,900.0,600.0,0.0,0.0,0.0,0.0
+37,Sapiens,F,Unemployed,Bachelor's Degree,Yes,5,10K or more,Own house - double storey terrace,400K to 500K,Local brand car,0.0,0.0,Own transport,400.0,0.0,0.0,1000.0,200.0,0.0,0.0,0.0,0.0
+28,Sapiens,F,Employed,Bachelor's Degree,No,3,10K or more,Parent's house,,Asia brand car,0.0,0.0,Own transport,1000.0,0.0,600.0,1500.0,1000.0,0.0,400.0,0.0,0.0
+61,Others,F,Unemployed,High School,Divorcee,1,Less than 1K,Parent's house,,Did not own any vehicle,0.0,0.0,Public transport,0.0,50.0,0.0,300.0,0.0,0.0,0.0,0.0,0.0
+45,Kree,F,Employed,High School,Yes,7,2K to 3K,Own house - kampung / wooden house,,Motorcycle,0.0,0.0,Own transport,250.0,0.0,70.0,200.0,200.0,0.0,0.0,0.0,0.0
+40,Sapiens,F,Employed,High School,No,1,2K to 3K,Rental house - flat,,Did not own any vehicle,500.0,0.0,,0.0,0.0,500.0,1000.0,0.0,0.0,0.0,0.0,0.0
+55,Others,M,Employed,High School,Yes,6,3K to 4K,Parent's house,,Local brand car,300.0,,Own transport,1000.0,,100.0,500.0,200.0,,,,
+43,Skrull,M,Employed,High School,Yes,4,2K to 3K,Rental house - single storey,,Local brand car,500.0,0.0,Own transport,150.0,0.0,50.0,300.0,100.0,0.0,0.0,0.0,0.0
+45,Kree,M,Self-employed,High School,No,2,Less than 1K,Own house - kampung / wooden house,Below 100K,Motorcycle,0.0,0.0,Own transport,300.0,0.0,70.0,500.0,0.0,0.0,0.0,0.0,0.0
+72,Sapiens,F,Unemployed,High School,Yes,5,Less than 1K,Rental house - single storey,,Local brand car,350.0,0.0,Own transport,100.0,0.0,200.0,300.0,0.0,300.0,0.0,0.0,0.0
+35,Kree,M,Employed,Bachelor's Degree,Yes,2,10K or more,Rental house - bungalows,,Asia brand car,1100.0,,Own transport,2000.0,,400.0,1000.0,,,,,
+60,Sapiens,M,Self-employed,High School,Yes,2,4K to 5K,Own house - double storey terrace,400K to 500K,Local brand car,0.0,0.0,Own transport,300.0,0.0,500.0,1200.0,1000.0,0.0,0.0,0.0,0.0
+64,Sapiens,F,Private sector retiree,High School,Yes,1,Less than 1K,Parent's house,,Did not own any vehicle,0.0,0.0,,0.0,0.0,300.0,300.0,0.0,0.0,0.0,0.0,0.0
+55,Kree,M,Self-employed,High School,Yes,4,Less than 1K,Parent's house,200K to 300K,Motorcycle,0.0,0.0,Own transport,30.0,0.0,100.0,600.0,0.0,0.0,0.0,0.0,0.0
+51,Sapiens,M,Employed,High School,Yes,3,10K or more,Own house - condominiums,300K to 400K,Asia brand car,0.0,0.0,Own transport,800.0,0.0,600.0,3000.0,1500.0,0.0,0.0,0.0,0.0
+51,Kree,F,Unemployed,High School,Yes,5,1K to 2K,Own house - kampung / wooden house,Below 100K,Motorcycle,0.0,0.0,Own transport,200.0,0.0,200.0,600.0,0.0,0.0,0.0,0.0,0.0
+34,Kree,M,Self-employed,Bachelor's Degree,Yes,5,2K to 3K,Own house - double storey terrace,100K to 200K,Local brand car,0.0,0.0,,400.0,0.0,3000.0,1500.0,500.0,0.0,0.0,0.0,0.0
+65,Sapiens,M,Private sector retiree,Bachelor's Degree,Yes,2,Less than 1K,Own house - condominiums,400K to 500K,Asia brand car,0.0,0.0,Own transport,300.0,0.0,300.0,1000.0,0.0,0.0,0.0,0.0,0.0
+31,Kree,M,Employed,High School,No,1,1K to 2K,Parent's house,Below 100K,Local brand car,0.0,300.0,Own transport,300.0,0.0,150.0,600.0,300.0,0.0,0.0,0.0,300.0
+28,Kree,F,Employed,Bachelor's Degree,No,1,Less than 1K,Rental house - double storey terrace,Below 100K,Local brand car,250.0,0.0,Own transport,200.0,0.0,0.0,600.0,0.0,0.0,220.0,0.0,0.0
+73,Kree,M,Government retiree,High School,Yes,2,1K to 2K,Own house - one storey terrace,,Local brand car,0.0,0.0,Own transport,300.0,0.0,150.0,400.0,0.0,0.0,0.0,0.0,0.0
+40,Skrull,F,Unemployed,High School,Yes,6,1K to 2K,Own house - one storey terrace,Below 100K,Motorcycle,0.0,600.0,Own transport,200.0,30.0,400.0,200.0,130.0,259.0,0.0,0.0,0.0
+69,Kree,F,Others,High School,Yes,3,Less than 1K,Parent's house,,Did not own any vehicle,0.0,0.0,,0.0,0.0,50.0,400.0,0.0,0.0,0.0,0.0,0.0
+37,Sapiens,F,Unemployed,Bachelor's Degree,Yes,3,7K to 8K,Own house - condominiums,200K to 300K,Did not own any vehicle,0.0,1500.0,,0.0,0.0,200.0,400.0,300.0,0.0,0.0,0.0,0.0
+54,Kree,F,Unemployed,High School,Divorcee,5,Less than 1K,Own house - kampung / wooden house,Below 100K,Motorcycle,0.0,0.0,Own transport,20.0,0.0,100.0,400.0,0.0,0.0,0.0,0.0,120.0
+68,Sapiens,M,Self-employed,High School,No,2,Less than 1K,Parent's house,,Motorcycle,800.0,0.0,Own transport,50.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0
+47,Sapiens,F,Employed,High School,Yes,5,,,,,,,,,,,,,,,,
+63,Kree,F,Unemployed,High School,Yes,4,,Rental house - kampung / wooden house,,Did not own any vehicle,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+64,Skrull,F,Unemployed,High School,Yes,5,2K to 3K,Rental house - flat,,Local brand car,800.0,0.0,Public transport,300.0,0.0,300.0,400.0,0.0,0.0,0.0,0.0,0.0
+28,Kree,M,Employed,Bachelor's Degree,No,1,2K to 3K,Rental house - single storey,,Local brand car,500.0,0.0,Own transport,200.0,0.0,150.0,800.0,0.0,0.0,190.0,0.0,0.0
+54,Kree,F,Unemployed,High School,Yes,7,1K to 2K,Own house - double storey terrace,300K to 400K,Asia brand car,0.0,0.0,Own transport,0.0,0.0,1000.0,600.0,0.0,0.0,0.0,0.0,0.0
+47,Sapiens,M,Employed,High School,Yes,8,2K to 3K,Own house - kampung / wooden house,Below 100K,Local brand car,0.0,0.0,Own transport,200.0,0.0,150.0,1000.0,100.0,0.0,0.0,0.0,0.0
+42,Sapiens,F,Employed,High School,Yes,3,3K to 4K,Own house - flat,300K to 400K,Europe brand car,0.0,0.0,Own transport,1500.0,0.0,200.0,800.0,500.0,0.0,0.0,0.0,0.0
+53,Kree,M,Self-employed,High School,Yes,6,3K to 4K,Own house - double storey terrace,100K to 200K,Local brand car,800.0,0.0,Own transport,200.0,0.0,800.0,3000.0,700.0,0.0,0.0,0.0,0.0
+47,Kree,M,Employed,Bachelor's Degree,Yes,8,10K or more,Own house - bungalows,More than 1M,Europe brand car,300.0,0.0,Own transport,3000.0,0.0,500.0,2000.0,800.0,0.0,0.0,0.0,0.0
+29,Sapiens,F,Employed,High School,Yes,5,3K to 4K,Own house - double storey terrace,300K to 400K,Local brand car,0.0,0.0,Own transport,800.0,0.0,400.0,300.0,0.0,0.0,0.0,0.0,0.0
+29,Skrull,F,Unemployed,High School,Yes,4,1K to 2K,Own house - one storey terrace,100K to 200K,Did not own any vehicle,0.0,0.0,Public transport,0.0,100.0,400.0,400.0,200.0,0.0,0.0,0.0,0.0
+46,Kree,M,Self-employed,High School,Yes,7,5K to 6K,Own house - one storey terrace,200K to 300K,Asia brand car,0.0,700.0,Own transport,500.0,0.0,200.0,1000.0,1000.0,0.0,0.0,0.0,0.0
+64,Others,F,Employed,High School,Divorcee,7,Less than 1K,Own house - kampung / wooden house,Below 100K,Did not own any vehicle,0.0,0.0,Public transport,0.0,180.0,0.0,150.0,0.0,0.0,0.0,0.0,0.0
+34,Kree,M,Self-employed,Certificates,Yes,3,1K to 2K,Parent's house,,Did not own any vehicle,0.0,0.0,Public transport,0.0,250.0,300.0,500.0,300.0,0.0,0.0,0.0,0.0
+42,Others,F,Employed,Certificates,Yes,3,Less than 1K,Parent's house,Below 100K,Did not own any vehicle,,0.0,Public transport,,0.0,100.0,200.0,250.0,,,,
+51,Skrull,F,Employed,High School,Yes,3,Less than 1K,Own house - flat,Below 100K,Motorcycle,0.0,0.0,Own transport,100.0,0.0,200.0,350.0,0.0,0.0,0.0,0.0,0.0
+27,Kree,M,Self-employed,High School,No,1,Less than 1K,Parent's house,,Motorcycle,0.0,0.0,Own transport,200.0,,100.0,400.0,,0.0,0.0,0.0,0.0
+24,Sapiens,M,Employed,High School,No,3,1K to 2K,Parent's house,,Asia brand car,0.0,0.0,Own transport,1000.0,,0.0,300.0,0.0,0.0,0.0,0.0,0.0
+27,Skrull,F,Employed,Bachelor's Degree,No,1,2K to 3K,Rental house - condominiums,,Asia brand car,300.0,0.0,Own transport,800.0,0.0,50.0,400.0,0.0,0.0,0.0,0.0,0.0
+31,Kree,M,Employed,High School,No,5,1K to 2K,Own house - kampung / wooden house,Below 100K,Local brand car,400.0,,Own transport,1000.0,,400.0,400.0,0.0,,,,
+53,Kree,F,Unemployed,High School,Yes,7,2K to 3K,Rental house - single storey,Below 100K,Local brand car,0.0,0.0,Own transport,300.0,0.0,300.0,300.0,300.0,0.0,0.0,0.0,0.0
+77,Kree,F,Unemployed,High School,Divorcee,3,Less than 1K,Own house - kampung / wooden house,Below 100K,Did not own any vehicle,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+53,Sapiens,F,Employed,High School,Yes,4,Less than 1K,Own house - condominiums,300K to 400K,Local brand car,0.0,0.0,Own transport & Public transport,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+24,Sapiens,F,Employed,Bachelor's Degree,No,6,2K to 3K,Rental house - kampung / wooden house,,Did not own any vehicle,0.0,0.0,,0.0,0.0,0.0,1000.0,0.0,0.0,300.0,0.0,0.0
+66,Kree,M,Employed,High School,Yes,3,Less than 1K,Rental house - flat,,Local brand car,124.0,0.0,Own transport,150.0,0.0,650.0,300.0,0.0,0.0,0.0,0.0,0.0
+27,Kree,F,Employed,Diploma,No,3,2K to 3K,Parent's house,,Local brand car,0.0,0.0,Own transport,600.0,0.0,0.0,350.0,0.0,0.0,150.0,0.0,0.0
+51,Sapiens,F,Self-employed,High School,Yes,3,3K to 4K,Own house - condominiums,200K to 300K,Local brand car,0.0,900.0,Own transport,900.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+50,Kree,F,Unemployed,High School,Yes,7,Less than 1K,Parent's house,,Motorcycle,0.0,0.0,Own transport,100.0,0.0,50.0,300.0,100.0,0.0,0.0,0.0,0.0
+37,Kree,F,Employed,Bachelor's Degree,Yes,5,10K or more,Own house - one storey terrace,500K to 600K,Did not own any vehicle,0.0,8000.0,Public transport,0.0,150.0,1500.0,2000.0,1500.0,2000.0,0.0,0.0,0.0
+56,Sapiens,M,Self-employed,High School,No,6,Less than 1K,Rental house - single storey,,Asia brand car,400.0,0.0,Own transport,300.0,0.0,300.0,500.0,0.0,0.0,0.0,0.0,0.0
+60,Skrull,M,Employed,High School,Yes,2,2K to 3K,Own house - one storey terrace,100K to 200K,Motorcycle,0.0,1800.0,Own transport,80.0,0.0,500.0,500.0,200.0,0.0,0.0,0.0,0.0
+73,Kree,F,Others,High School,Yes,3,Less than 1K,Own house - kampung / wooden house,Below 100K,Asia brand car,,0.0,Own transport,0.0,,100.0,400.0,0.0,0.0,0.0,0.0,0.0
+39,Sapiens,M,Self-employed,Bachelor's Degree,No,5,1K to 2K,Parent's house,,Asia brand car,0.0,0.0,Own transport,200.0,0.0,170.0,600.0,0.0,0.0,0.0,0.0,0.0
+68,Sapiens,M,Employed,High School,Yes,5,1K to 2K,Own house - one storey terrace,Below 100K,Did not own any vehicle,0.0,650.0,,0.0,0.0,400.0,1500.0,0.0,0.0,0.0,0.0,0.0
+60,Sapiens,M,Employed,High School,Yes,4,3K to 4K,Rental house - flat,,Motorcycle,400.0,0.0,Own transport,30.0,0.0,100.0,1200.0,0.0,0.0,0.0,0.0,0.0
+54,Skrull,M,Employed,High School,Yes,6,3K to 4K,Parent's house,Below 100K,Local brand car,,0.0,Own transport,700.0,,500.0,2000.0,500.0,600.0,,,
+62,Sapiens,M,Private sector retiree,High School,Yes,2,Less than 1K,Own house - flat,100K to 200K,Local brand car,0.0,0.0,,50.0,0.0,100.0,300.0,0.0,0.0,0.0,0.0,0.0
+53,Skrull,F,Unemployed,High School,Yes,5,Less than 1K,Parent's house,,Did not own any vehicle,0.0,0.0,,0.0,0.0,1500.0,1000.0,0.0,0.0,0.0,0.0,0.0
+63,Kree,F,Unemployed,High School,Yes,5,Less than 1K,Parent's house,,Did not own any vehicle,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+61,Kree,M,Government retiree,High School,Yes,8,2K to 3K,Own house - one storey terrace,100K to 200K,Local brand car,0.0,500.0,Own transport,400.0,0.0,400.0,300.0,300.0,0.0,0.0,0.0,0.0
+24,Sapiens,F,Self-employed,Bachelor's Degree,No,1,Less than 1K,Parent's house,Below 100K,Did not own any vehicle,0.0,0.0,,0.0,0.0,0.0,400.0,0.0,0.0,0.0,0.0,0.0
+64,Sapiens,M,Private sector retiree,High School,Yes,7,10K or more,Rental house - double storey terrace,,,0.0,1300.0,,200.0,0.0,500.0,1000.0,0.0,0.0,500.0,0.0,0.0
+36,Sapiens,F,Self-employed,Diploma,Yes,4,2K to 3K,Own house - double storey terrace,400K to 500K,Local brand car,0.0,0.0,,400.0,0.0,400.0,1000.0,0.0,0.0,0.0,0.0,0.0
+69,Others,M,Government retiree,Certificates,Yes,7,1K to 2K,Own house - one storey terrace,Below 100K,Local brand car,0.0,0.0,Own transport,1050.0,0.0,100.0,800.0,700.0,0.0,0.0,0.0,0.0
+60,Kree,F,Unemployed,High School,No,4,Less than 1K,Own house - kampung / wooden house,Below 100K,Did not own any vehicle,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,200.0,0.0
+32,Sapiens,F,Employed,Bachelor's Degree,Yes,3,5K to 6K,Own house - double storey terrace,Below 100K,Did not own any vehicle,0.0,0.0,,0.0,0.0,100.0,0.0,0.0,0.0,300.0,0.0,0.0
+25,Sapiens,F,Employed,Diploma,No,5,2K to 3K,Parent's house,Below 100K,Did not own any vehicle,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,400.0,0.0,0.0
+32,Kree,M,Self-employed,High School,Yes,6,5K to 6K,Parent's house,,Europe brand car,0.0,0.0,Own transport,12000.0,0.0,2000.0,2000.0,500.0,0.0,0.0,0.0,0.0
+25,Sapiens,F,Employed,Bachelor's Degree,No,6,1K to 2K,Parent's house,,Motorcycle,0.0,0.0,Own transport,20.0,0.0,120.0,0.0,0.0,0.0,0.0,0.0,0.0
+54,Skrull,F,Unemployed,High School,Yes,9,Less than 1K,Own house - one storey terrace,Below 100K,Did not own any vehicle,0.0,450.0,,0.0,0.0,450.0,1000.0,0.0,0.0,0.0,0.0,0.0
+46,Skrull,F,Employed,Bachelor's Degree,Yes,4,7K to 8K,Own house - double storey terrace,400K to 500K,Local brand car,,1000.0,Own transport,700.0,0.0,600.0,400.0,300.0,3000.0,0.0,0.0,0.0
+60,Skrull,M,Unemployed,Certificates,Yes,3,1K to 2K,Own house - double storey terrace,300K to 400K,,0.0,1500.0,Own transport,800.0,0.0,500.0,1500.0,0.0,0.0,0.0,0.0,0.0
+56,Kree,F,Unemployed,High School,Divorcee,5,Less than 1K,Own house - kampung / wooden house,,Local brand car,0.0,0.0,Own transport,120.0,0.0,180.0,150.0,120.0,0.0,0.0,0.0,0.0
+26,Kree,M,Self-employed,Bachelor's Degree,No,3,2K to 3K,Rental house - flat,,Local brand car,1000.0,0.0,Own transport,200.0,0.0,80.0,400.0,0.0,0.0,0.0,0.0,0.0
+30,Sapiens,F,Employed,Bachelor's Degree,No,1,4K to 5K,Rental house - condominiums,,Asia brand car,1500.0,0.0,Own transport,250.0,0.0,200.0,500.0,0.0,0.0,200.0,0.0,0.0
+57,Skrull,M,Self-employed,High School,Yes,10 or more,2K to 3K,Own house - one storey terrace,100K to 200K,Local brand car,0.0,1000.0,Own transport,500.0,0.0,600.0,1000.0,300.0,0.0,0.0,0.0,0.0
+61,Sapiens,F,Private sector retiree,High School,No,6,3K to 4K,Parent's house,,Did not own any vehicle,0.0,0.0,,0.0,0.0,100.0,100.0,0.0,0.0,0.0,0.0,0.0
+43,Sapiens,F,Self-employed,Bachelor's Degree,Yes,2,10K or more,Own house - condominiums,300K to 400K,Asia brand car,0.0,10000.0,Own transport & Public transport,400.0,100.0,600.0,5000.0,0.0,0.0,0.0,0.0,0.0
+45,Kree,F,Employed,Bachelor's Degree,Yes,5,10K or more,Own house - bungalows,500K to 600K,Europe brand car,2500.0,2500.0,Own transport & Public transport,1000.0,150.0,750.0,1000.0,800.0,1000.0,0.0,0.0,0.0
+62,Skrull,F,Unemployed,High School,Yes,10 or more,Less than 1K,Own house - bungalows,100K to 200K,Did not own any vehicle,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30,Skrull,M,Employed,Certificates,No,5,2K to 3K,Parent's house,,Asia brand car,0.0,0.0,Own transport,800.0,0.0,250.0,500.0,0.0,0.0,0.0,0.0,0.0
+24,Kree,M,Employed,Bachelor's Degree,No,1,3K to 4K,Rental house - flat,,Did not own any vehicle,600.0,0.0,,0.0,400.0,100.0,400.0,1500.0,0.0,0.0,0.0,0.0
+48,Skrull,M,Employed,Bachelor's Degree,Yes,5,8K to 9K,Own house - double storey terrace,200K to 300K,Local brand car,1050.0,0.0,Own transport,300.0,0.0,800.0,1500.0,300.0,700.0,0.0,0.0,0.0
+61,Skrull,M,Private sector retiree,Diploma,Divorcee,1,Less than 1K,Own house - one storey terrace,Below 100K,Asia brand car,,0.0,Own transport,200.0,,60.0,0.0,0.0,,,,
+80,Skrull,M,Private sector retiree,High School,Yes,2,Less than 1K,Own house - one storey terrace,Below 100K,Did not own any vehicle,0.0,0.0,,0.0,0.0,170.0,1000.0,0.0,0.0,0.0,0.0,0.0
+66,Skrull,F,Unemployed,High School,Yes,4,1K to 2K,Rental house - bungalows,Below 100K,Motorcycle,0.0,0.0,Own transport,250.0,0.0,150.0,500.0,150.0,0.0,0.0,0.0,0.0
+44,Sapiens,M,Unemployed,High School,No,2,Less than 1K,Own house - double storey terrace,Below 100K,Did not own any vehicle,0.0,0.0,,0.0,0.0,100.0,300.0,0.0,0.0,0.0,0.0,0.0
+56,Kree,M,Self-employed,Diploma,Yes,5,10K or more,Own house - double storey terrace,500K to 600K,Asia brand car,,5000.0,Own transport,6000.0,,1000.0,3000.0,0.0,,,10000.0,
+51,Kree,F,Unemployed,High School,Yes,3,Less than 1K,Own house - one storey terrace,,Motorcycle,250.0,0.0,Own transport,0.0,0.0,50.0,300.0,0.0,0.0,0.0,0.0,0.0
+58,Sapiens,F,Unemployed,Diploma,Yes,3,Less than 1K,Own house - one storey terrace,200K to 300K,Local brand car,0.0,0.0,Own transport,200.0,0.0,0.0,400.0,0.0,0.0,0.0,0.0,0.0
+57,Kree,F,Unemployed,High School,Yes,4,Less than 1K,Own house - kampung / wooden house,Below 100K,Did not own any vehicle,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+71,Kree,F,Unemployed,High School,Yes,5,1K to 2K,Own house - kampung / wooden house,Below 100K,Did not own any vehicle,0.0,0.0,,0.0,0.0,500.0,0.0,0.0,0.0,0.0,0.0,0.0
+46,Kree,M,Employed,Diploma,Yes,5,7K to 8K,Own house - one storey terrace,300K to 400K,Local brand car,0.0,650.0,Own transport,1000.0,0.0,300.0,1500.0,1000.0,650.0,0.0,0.0,0.0
+71,Sapiens,F,Unemployed,High School,Divorcee,1,Less than 1K,Own house - kampung / wooden house,Below 100K,Did not own any vehicle,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+43,Skrull,F,Employed,High School,Divorcee,1,Less than 1K,Rental house - double storey terrace,,Did not own any vehicle,450.0,0.0,,0.0,0.0,0.0,300.0,0.0,0.0,0.0,0.0,100.0
+29,Sapiens,F,Employed,High School,No,4,,,,,,,,,,,,,,,,
+47,Skrull,F,Employed,High School,Yes,6,2K to 3K,Own house - one storey terrace,300K to 400K,Local brand car,0.0,550.0,Own transport,370.0,0.0,150.0,800.0,300.0,0.0,0.0,0.0,0.0
+24,Skrull,M,Others,Bachelor's Degree,No,7,Less than 1K,Parent's house,,Motorcycle,0.0,0.0,Own transport,150.0,0.0,0.0,250.0,0.0,0.0,60000.0,0.0,0.0
+56,Sapiens,M,Employed,High School,Yes,7,Less than 1K,Own house - kampung / wooden house,Below 100K,Asia brand car,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+40,Skrull,F,Employed,Diploma,Yes,3,2K to 3K,Own house - double storey terrace,100K to 200K,Europe brand car,0.0,600.0,Own transport,800.0,0.0,150.0,300.0,100.0,0.0,0.0,0.0,0.0
+46,Sapiens,M,Employed,High School,No,5,2K to 3K,Parent's house,,Local brand car,0.0,0.0,Own transport,250.0,0.0,0.0,400.0,0.0,0.0,0.0,0.0,0.0
+55,Skrull,F,Employed,Bachelor's Degree,No,6,2K to 3K,Parent's house,Below 100K,Did not own any vehicle,0.0,0.0,,0.0,0.0,400.0,1000.0,50.0,0.0,0.0,0.0,0.0
+30,Sapiens,M,Employed,Bachelor's Degree,No,5,3K to 4K,Parent's house,Below 100K,Local brand car,,0.0,Own transport,900.0,,300.0,300.0,0.0,,,600.0,
+75,Kree,F,Government retiree,High School,Yes,2,Less than 1K,Own house - flat,400K to 500K,Asia brand car,0.0,0.0,Own transport,300.0,,500.0,300.0,0.0,0.0,0.0,0.0,0.0
+75,Sapiens,M,Private sector retiree,High School,Yes,4,Less than 1K,Own house - one storey terrace,Below 100K,Motorcycle,82.0,0.0,Own transport,40.0,0.0,60.0,1000.0,0.0,0.0,0.0,0.0,0.0
+33,Kree,F,Employed,Diploma,Yes,3,1K to 2K,Parent's house,100K to 200K,Local brand car,0.0,0.0,Own transport,300.0,0.0,150.0,400.0,500.0,0.0,0.0,0.0,0.0
+66,Kree,F,Private sector retiree,High School,Yes,1,Less than 1K,Parent's house,,Did not own any vehicle,0.0,0.0,,0.0,0.0,60.0,400.0,0.0,0.0,0.0,0.0,0.0
+65,Kree,M,Self-employed,High School,Yes,3,1K to 2K,Own house - kampung / wooden house,,Local brand car,0.0,0.0,Own transport,60.0,0.0,150.0,600.0,200.0,0.0,0.0,0.0,0.0
+37,Kree,F,Employed,High School,Yes,5,1K to 2K,Own house - kampung / wooden house,,Motorcycle,0.0,0.0,Own transport & Public transport,100.0,100.0,200.0,500.0,600.0,0.0,0.0,0.0,0.0
+50,Kree,F,Employed,Bachelor's Degree,Yes,7,10K or more,Own house - bungalows,400K to 500K,Local brand car,0.0,400.0,Own transport,800.0,0.0,1000.0,500.0,2000.0,1000.0,0.0,0.0,0.0
+52,Skrull,M,Employed,Certificates,Yes,3,3K to 4K,Parent's house,,Local brand car,0.0,0.0,Own transport,400.0,0.0,0.0,0.0,0.0,600.0,0.0,0.0,0.0
+59,Skrull,F,Unemployed,High School,Yes,7,2K to 3K,Own house - one storey terrace,100K to 200K,Local brand car,0.0,800.0,Own transport & Public transport,400.0,200.0,1000.0,100.0,400.0,0.0,0.0,450.0,0.0
+35,Kree,M,Employed,Bachelor's Degree,Yes,2,5K to 6K,Rental house - flat,,Europe brand car,800.0,0.0,,800.0,0.0,180.0,600.0,400.0,600.0,200.0,0.0,0.0
+37,Sapiens,F,Employed,Bachelor's Degree,Yes,3,4K to 5K,Parent's house,Below 100K,Did not own any vehicle,0.0,0.0,,0.0,0.0,500.0,2000.0,1000.0,0.0,0.0,0.0,0.0
+61,Kree,M,Private sector retiree,Certificates,Yes,6,Less than 1K,Own house - one storey terrace,100K to 200K,Local brand car,0.0,0.0,Own transport,400.0,0.0,400.0,500.0,400.0,0.0,0.0,0.0,0.0
+56,Kree,M,Employed,High School,Yes,7,2K to 3K,Rental house - single storey,,Local brand car,400.0,0.0,Own transport,500.0,0.0,250.0,0.0,300.0,0.0,0.0,0.0,0.0
+38,Skrull,F,Unemployed,High School,Yes,7,2K to 3K,Own house - double storey terrace,Below 100K,Did not own any vehicle,1000.0,0.0,,0.0,0.0,0.0,600.0,0.0,0.0,0.0,500.0,0.0
+60,Skrull,F,Unemployed,High School,No,6,Less than 1K,Parent's house,Below 100K,Did not own any vehicle,0.0,0.0,Public transport,0.0,50.0,150.0,0.0,0.0,0.0,0.0,0.0,0.0
+48,Kree,F,Employed,High School,Divorcee,6,1K to 2K,Own house - kampung / wooden house,Below 100K,Motorcycle,0.0,0.0,Own transport,70.0,0.0,90.0,300.0,200.0,0.0,0.0,0.0,0.0
+34,Kree,M,Employed,Bachelor's Degree,No,6,5K to 6K,Parent's house,,Asia brand car,0.0,0.0,Own transport,200.0,0.0,0.0,1500.0,0.0,200.0,0.0,0.0,0.0
+32,Kree,F,Employed,Bachelor's Degree,Yes,4,3K to 4K,Rental house - single storey,,Local brand car,500.0,0.0,Own transport,300.0,0.0,100.0,500.0,700.0,0.0,100.0,0.0,0.0
+30,Others,M,Employed,Bachelor's Degree,No,4,8K to 9K,Parent's house,,Europe brand car,0.0,0.0,Own transport,2000.0,0.0,800.0,3000.0,0.0,0.0,0.0,0.0,0.0
+44,Others,M,Self-employed,Diploma,Yes,6,2K to 3K,Own house - kampung / wooden house,Below 100K,Local brand car,,0.0,Own transport,300.0,,250.0,300.0,300.0,250.0,,,
+61,Skrull,M,Employed,High School,Yes,5,1K to 2K,Rental house - single storey,Below 100K,Motorcycle,220.0,0.0,Own transport,150.0,0.0,200.0,1500.0,500.0,0.0,0.0,0.0,0.0
+58,Kree,F,Employed,Bachelor's Degree,Yes,5,10K or more,Own house - bungalows,500K to 600K,Europe brand car,0.0,1000.0,Own transport,1200.0,0.0,50.0,2500.0,0.0,0.0,0.0,0.0,0.0
+54,Others,M,Employed,High School,Yes,6,Less than 1K,Parent's house,,Motorcycle,0.0,0.0,Own transport,100.0,0.0,50.0,400.0,0.0,0.0,0.0,0.0,0.0
+56,Kree,F,Employed,Bachelor's Degree,Yes,4,9K to 10K,Own house - bungalows,300K to 400K,Asia brand car,0.0,800.0,Own transport,1500.0,0.0,500.0,3000.0,0.0,1000.0,0.0,0.0,0.0
+33,Sapiens,F,Employed,Bachelor's Degree,Yes,3,Less than 1K,Own house - condominiums,Below 100K,Local brand car,0.0,0.0,Own transport,600.0,0.0,200.0,600.0,0.0,2000.0,2000.0,0.0,0.0
+36,Kree,M,Employed,Certificates,Yes,4,2K to 3K,Rental house - kampung / wooden house,,Local brand car,400.0,0.0,Own transport,400.0,0.0,80.0,700.0,200.0,0.0,0.0,0.0,0.0
+51,Sapiens,M,Self-employed,High School,Yes,6,Less than 1K,Own house - kampung / wooden house,Below 100K,Local brand car,0.0,0.0,Own transport,200.0,0.0,60.0,300.0,100.0,0.0,0.0,0.0,0.0
+34,Kree,M,Employed,Certificates,Yes,2,3K to 4K,Parent's house,,Local brand car,0.0,0.0,,200.0,0.0,110.0,300.0,0.0,500.0,0.0,0.0,0.0
+52,Sapiens,M,Employed,Diploma,Yes,5,7K to 8K,Own house - double storey terrace,500K to 600K,Asia brand car,0.0,850.0,Own transport,1050.0,0.0,600.0,1000.0,50.0,0.0,0.0,0.0,0.0
+27,Kree,M,Employed,Bachelor's Degree,No,8,2K to 3K,Rental house - single storey,,Asia brand car,300.0,0.0,Own transport,100.0,0.0,70.0,400.0,0.0,0.0,0.0,0.0,0.0
+72,Sapiens,M,Private sector retiree,Diploma,Yes,4,Less than 1K,Own house - double storey terrace,500K to 600K,Local brand car,0.0,0.0,Own transport,600.0,0.0,500.0,2000.0,0.0,0.0,0.0,0.0,0.0
+64,Sapiens,M,Self-employed,High School,Yes,3,1K to 2K,Own house - condominiums,400K to 500K,Local brand car,0.0,1500.0,Own transport,700.0,0.0,600.0,2000.0,0.0,0.0,0.0,0.0,0.0
+29,Sapiens,M,Self-employed,Diploma,No,1,3K to 4K,Rental house - double storey terrace,Below 100K,Asia brand car,500.0,0.0,Own transport,2500.0,0.0,180.0,800.0,0.0,0.0,0.0,1700.0,0.0
+30,Kree,M,Employed,Bachelor's Degree,Yes,3,5K to 6K,Rental house - double storey terrace,,Local brand car,800.0,0.0,Own transport,700.0,0.0,100.0,400.0,600.0,0.0,150.0,0.0,0.0
+51,Sapiens,F,Unemployed,High School,No,3,Less than 1K,Parent's house,,Did not own any vehicle,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+41,Sapiens,M,Employed,Diploma,No,1,7K to 8K,Own house - condominiums,600K to 700K,Asia brand car,0.0,2500.0,Own transport,1500.0,0.0,400.0,500.0,0.0,0.0,0.0,0.0,0.0
+26,Sapiens,M,Employed,High School,No,5,3K to 4K,Parent's house,,Asia brand car,0.0,0.0,Own transport,200.0,0.0,300.0,400.0,0.0,0.0,0.0,0.0,0.0
+43,Others,F,Unemployed,High School,Yes,5,1K to 2K,Rental house - kampung / wooden house,,Did not own any vehicle,450.0,0.0,,0.0,20.0,100.0,450.0,180.0,0.0,0.0,0.0,0.0
+52,Skrull,F,Unemployed,High School,No,3,Less than 1K,Parent's house,Below 100K,Did not own any vehicle,0.0,0.0,Public transport,0.0,13.0,800.0,500.0,0.0,0.0,0.0,0.0,0.0
+39,Sapiens,M,Self-employed,High School,Divorcee,4,1K to 2K,Parent's house,,Local brand car,0.0,0.0,Own transport,300.0,0.0,300.0,1000.0,0.0,0.0,0.0,0.0,1000.0
+48,Skrull,F,Employed,High School,No,7,1K to 2K,Parent's house,Below 100K,Did not own any vehicle,0.0,0.0,,0.0,0.0,80.0,1200.0,,400.0,0.0,0.0,0.0
+59,Kree,M,Government retiree,High School,Yes,3,Less than 1K,Parent's house,,Local brand car,0.0,0.0,Own transport,300.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0
+62,Kree,F,Employed,High School,Divorcee,6,Less than 1K,Parent's house,,Did not own any vehicle,0.0,0.0,,0.0,0.0,100.0,600.0,300.0,0.0,0.0,0.0,0.0
+49,Kree,M,Employed,High School,Yes,7,1K to 2K,Own house - kampung / wooden house,Below 100K,Motorcycle,0.0,0.0,Own transport,200.0,0.0,80.0,1000.0,600.0,0.0,0.0,0.0,0.0
+54,Kree,M,Self-employed,High School,Yes,2,Less than 1K,Own house - one storey terrace,100K to 200K,Local brand car,0.0,0.0,Own transport,400.0,0.0,300.0,1000.0,0.0,0.0,0.0,0.0,0.0
+53,Sapiens,F,Employed,High School,Yes,5,4K to 5K,Own house - flat,100K to 200K,Asia brand car,0.0,1000.0,Own transport,1000.0,0.0,300.0,1000.0,200.0,800.0,0.0,300.0,0.0
+58,Skrull,F,Unemployed,High School,Yes,5,2K to 3K,Own house - double storey terrace,,Did not own any vehicle,0.0,500.0,,0.0,200.0,200.0,500.0,200.0,0.0,0.0,0.0,0.0
+53,Kree,M,Self-employed,High School,Yes,6,5K to 6K,Own house - kampung / wooden house,200K to 300K,Local brand car,,,Own transport,1500.0,,1000.0,2000.0,,,,,
+44,Kree,F,Unemployed,High School,Yes,7,3K to 4K,Own house - one storey terrace,Below 100K,Motorcycle,700.0,600.0,Own transport,0.0,0.0,500.0,1000.0,2000.0,0.0,100.0,0.0,0.0
+44,Skrull,F,Unemployed,High School,Yes,9,2K to 3K,Own house - flat,100K to 200K,Local brand car,0.0,300.0,Own transport,1400.0,0.0,400.0,1000.0,100.0,0.0,0.0,0.0,0.0
+32,Kree,M,Employed,High School,Yes,2,1K to 2K,Rental house - single storey,Below 100K,Local brand car,300.0,0.0,Own transport,500.0,0.0,50.0,300.0,0.0,0.0,0.0,0.0,92.0
+68,Kree,F,Unemployed,High School,Yes,2,Less than 1K,Own house - kampung / wooden house,Below 100K,Local brand car,0.0,0.0,Own transport,300.0,,100.0,600.0,0.0,0.0,0.0,0.0,0.0
+74,Kree,M,Government retiree,Diploma,Yes,3,2K to 3K,Own house - kampung / wooden house,Below 100K,Local brand car,0.0,0.0,Own transport,600.0,0.0,300.0,600.0,500.0,0.0,0.0,0.0,0.0
+56,Sapiens,F,Unemployed,High School,Yes,5,2K to 3K,Rental house - kampung / wooden house,,Local brand car,800.0,0.0,Own transport,200.0,0.0,390.0,2000.0,0.0,0.0,0.0,0.0,0.0
+59,Skrull,M,Employed,High School,Yes,4,3K to 4K,Parent's house,,Motorcycle,0.0,0.0,Own transport,300.0,0.0,150.0,900.0,0.0,0.0,0.0,0.0,0.0
+56,Sapiens,F,Self-employed,Bachelor's Degree,Yes,4,10K or more,Own house - condominiums,400K to 500K,Asia brand car,,1500.0,Own transport,2000.0,,500.0,1200.0,0.0,,300.0,,
+41,Kree,M,Employed,High School,Yes,3,2K to 3K,Rental house - single storey,,Motorcycle,300.0,0.0,Own transport,100.0,0.0,100.0,800.0,0.0,0.0,0.0,0.0,0.0
+48,Skrull,M,Employed,High School,Yes,7,1K to 2K,Own house - kampung / wooden house,Below 100K,Motorcycle,0.0,0.0,Own transport,120.0,0.0,300.0,300.0,300.0,0.0,0.0,0.0,0.0
+72,Sapiens,M,Private sector retiree,High School,Divorcee,1,Less than 1K,Own house - kampung / wooden house,Below 100K,Local brand car,0.0,0.0,,0.0,0.0,10.0,300.0,0.0,0.0,0.0,0.0,0.0
+33,Kree,M,Employed,Diploma,Yes,4,2K to 3K,Rental house - kampung / wooden house,,Motorcycle,500.0,0.0,Own transport,700.0,0.0,150.0,600.0,700.0,400.0,0.0,0.0,0.0
+27,Kree,M,Employed,Diploma,No,1,Less than 1K,Parent's house,,Local brand car,0.0,0.0,Own transport,300.0,0.0,100.0,300.0,0.0,0.0,100.0,90.0,0.0
+67,Kree,M,Government retiree,Bachelor's Degree,Yes,2,Less than 1K,Own house - bungalows,Below 100K,Local brand car,0.0,650.0,Own transport,300.0,0.0,90.0,300.0,0.0,0.0,0.0,0.0,0.0
+35,Sapiens,F,Employed,Diploma,No,3,3K to 4K,Own house - one storey terrace,200K to 300K,Asia brand car,0.0,800.0,Own transport,700.0,0.0,50.0,100.0,0.0,0.0,0.0,0.0,0.0
+43,Kree,F,Unemployed,Diploma,Yes,6,2K to 3K,Rental house - flat,,Local brand car,700.0,0.0,Own transport,400.0,0.0,300.0,800.0,400.0,0.0,0.0,0.0,0.0
+27,Skrull,F,Employed,High School,Yes,4,2K to 3K,Parent's house,,Local brand car,0.0,0.0,Own transport,800.0,0.0,80.0,1000.0,600.0,500.0,0.0,0.0,0.0
+63,Kree,F,Unemployed,High School,Yes,2,Less than 1K,Own house - kampung / wooden house,Below 100K,Local brand car,0.0,0.0,Own transport,30.0,0.0,50.0,300.0,0.0,0.0,0.0,0.0,0.0
+51,Kree,M,Unemployed,High School,Yes,5,,Own house - kampung / wooden house,Below 100K,Local brand car,0.0,0.0,Own transport,200.0,0.0,150.0,800.0,0.0,0.0,0.0,125.0,0.0
+31,Sapiens,M,Employed,Bachelor's Degree,No,4,3K to 4K,Parent's house,Below 100K,Local brand car,0.0,0.0,Own transport,700.0,0.0,0.0,400.0,0.0,0.0,0.0,0.0,0.0
+60,Kree,F,Self-employed,High School,Yes,7,Less than 1K,Own house - kampung / wooden house,,Local brand car,0.0,0.0,Own transport,0.0,0.0,70.0,200.0,0.0,0.0,0.0,0.0,0.0
+30,Skrull,F,Unemployed,Bachelor's Degree,Yes,3,2K to 3K,Rental house - flat,,Local brand car,770.0,0.0,Own transport,300.0,0.0,500.0,400.0,800.0,0.0,100.0,0.0,0.0
+42,Kree,M,Employed,Bachelor's Degree,Yes,6,10K or more,Own house - bungalows,500K to 600K,Asia brand car,0.0,2700.0,Own transport,1600.0,0.0,0.0,500.0,800.0,800.0,0.0,0.0,0.0
+78,Kree,F,Government retiree,High School,Divorcee,1,Less than 1K,Own house - kampung / wooden house,Below 100K,Did not own any vehicle,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+32,Sapiens,F,Self-employed,Bachelor's Degree,Yes,7,7K to 8K,Own house - double storey terrace,400K to 500K,Local brand car,0.0,1300.0,Own transport,800.0,0.0,400.0,1000.0,1500.0,0.0,0.0,0.0,0.0
+34,Kree,M,Employed,Certificates,Yes,4,1K to 2K,Rental house - flat,,Local brand car,400.0,0.0,,200.0,0.0,50.0,600.0,0.0,0.0,0.0,0.0,0.0
+35,Kree,F,Unemployed,High School,Yes,5,1K to 2K,Parent's house,,Asia brand car,0.0,0.0,Own transport,200.0,0.0,100.0,600.0,400.0,0.0,0.0,0.0,0.0
+25,Sapiens,M,Employed,Bachelor's Degree,No,1,2K to 3K,Rental house - double storey terrace,,Local brand car,200.0,0.0,,300.0,0.0,200.0,600.0,0.0,0.0,0.0,0.0,0.0
+24,Sapiens,F,Unemployed,Bachelor's Degree,No,1,Less than 1K,Parent's house,,Asia brand car,0.0,0.0,,200.0,0.0,0.0,400.0,0.0,0.0,100000.0,0.0,0.0
+49,Others,F,Employed,High School,Yes,5,1K to 2K,Own house - one storey terrace,100K to 200K,Did not own any vehicle,0.0,150.0,,0.0,0.0,100.0,400.0,300.0,0.0,0.0,0.0,0.0
+43,Others,F,Employed,High School,Yes,6,3K to 4K,Own house - kampung / wooden house,Below 100K,Local brand car,0.0,0.0,Own transport,900.0,0.0,200.0,500.0,100.0,0.0,0.0,0.0,0.0
+44,Sapiens,F,Employed,Diploma,Yes,2,3K to 4K,Own house - flat,Below 100K,Local brand car,0.0,0.0,Own transport,800.0,0.0,400.0,400.0,200.0,1500.0,0.0,0.0,0.0
+25,Sapiens,M,Employed,Bachelor's Degree,No,6,2K to 3K,Parent's house,,Did not own any vehicle,0.0,0.0,,0.0,0.0,150.0,500.0,0.0,0.0,200.0,0.0,0.0
+33,Sapiens,M,Employed,High School,No,1,3K to 4K,Parent's house,,Asia brand car,0.0,0.0,Own transport,1000.0,0.0,1000.0,500.0,0.0,0.0,0.0,0.0,0.0
+30,Sapiens,M,Employed,Bachelor's Degree,No,3,7K to 8K,Parent's house,,Local brand car,0.0,0.0,Own transport,200.0,0.0,400.0,500.0,700.0,0.0,0.0,0.0,0.0
+58,Skrull,F,Unemployed,High School,Yes,2,1K to 2K,Parent's house,Below 100K,Motorcycle,0.0,0.0,Own transport,30.0,0.0,150.0,350.0,0.0,0.0,0.0,0.0,0.0
+36,Sapiens,M,Employed,Bachelor's Degree,No,3,4K to 5K,Rental house - single storey,,Did not own any vehicle,1000.0,0.0,,0.0,100.0,150.0,1000.0,0.0,1000.0,0.0,0.0,0.0
+38,Skrull,F,Unemployed,High School,Yes,6,5K to 6K,Rental house - single storey,Below 100K,Local brand car,350.0,0.0,Own transport,1000.0,0.0,1000.0,0.0,1000.0,0.0,0.0,0.0,0.0
+33,Kree,M,Employed,High School,Yes,3,1K to 2K,Parent's house,,Asia brand car,0.0,0.0,,200.0,0.0,150.0,200.0,150.0,0.0,0.0,0.0,0.0
+26,Kree,M,Unemployed,Bachelor's Degree,No,1,Less than 1K,Rental house - condominiums,,Motorcycle,300.0,0.0,Own transport,300.0,0.0,100.0,500.0,0.0,0.0,0.0,0.0,0.0
+71,Kree,F,Unemployed,High School,Divorcee,1,Less than 1K,Own house - kampung / wooden house,Below 100K,Did not own any vehicle,0.0,0.0,,0.0,0.0,130.0,200.0,0.0,0.0,0.0,0.0,0.0
+56,Kree,M,Employed,High School,Yes,3,Less than 1K,Parent's house,,Did not own any vehicle,0.0,0.0,,0.0,0.0,50.0,100.0,100.0,0.0,0.0,0.0,0.0
+81,Sapiens,M,Government retiree,Diploma,Yes,5,1K to 2K,Own house - double storey terrace,500K to 600K,Did not own any vehicle,0.0,0.0,,0.0,0.0,300.0,1500.0,0.0,0.0,0.0,0.0,0.0
+42,Kree,M,Employed,High School,Yes,6,4K to 5K,Own house - one storey terrace,300K to 400K,Local brand car,,600.0,Own transport,960.0,,300.0,1500.0,250.0,360.0,,1360.0,
+56,Sapiens,M,Private sector retiree,High School,No,2,Less than 1K,Parent's house,,Did not own any vehicle,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+43,Kree,F,Unemployed,High School,Yes,5,1K to 2K,Rental house - single storey,,Local brand car,300.0,0.0,Public transport,500.0,0.0,0.0,300.0,400.0,0.0,0.0,0.0,0.0
+43,Sapiens,F,Employed,Bachelor's Degree,No,1,4K to 5K,Rental house - single storey,,Local brand car,0.0,0.0,Own transport,300.0,0.0,100.0,1500.0,0.0,0.0,0.0,1200.0,0.0
+29,Sapiens,M,Employed,Bachelor's Degree,No,4,3K to 4K,Parent's house,,Asia brand car,0.0,270.0,Own transport,100.0,0.0,250.0,300.0,0.0,0.0,0.0,0.0,0.0
+35,Sapiens,M,Employed,Bachelor's Degree,Yes,4,2K to 3K,Rental house - single storey,,Local brand car,800.0,0.0,Own transport,200.0,0.0,200.0,600.0,1000.0,0.0,0.0,0.0,0.0
+53,Skrull,F,Unemployed,High School,No,2,Less than 1K,Rental house - flat,,Did not own any vehicle,500.0,0.0,,0.0,0.0,200.0,200.0,100.0,0.0,0.0,0.0,0.0
+72,Skrull,F,Unemployed,High School,Yes,4,Less than 1K,Parent's house,,Did not own any vehicle,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+25,Sapiens,M,Employed,High School,No,3,1K to 2K,Rental house - double storey terrace,,Local brand car,100.0,0.0,Own transport,800.0,0.0,150.0,500.0,200.0,0.0,0.0,0.0,0.0
+59,Kree,F,Unemployed,High School,Divorcee,1,Less than 1K,Own house - kampung / wooden house,Below 100K,Local brand car,0.0,0.0,Own transport,200.0,0.0,150.0,300.0,300.0,0.0,0.0,0.0,0.0
+38,Kree,F,Unemployed,High School,Yes,2,Less than 1K,Own house - kampung / wooden house,Below 100K,Motorcycle,0.0,0.0,,0.0,0.0,120.0,400.0,0.0,0.0,0.0,0.0,0.0
+39,Skrull,M,Employed,High School,Yes,5,2K to 3K,Parent's house,,Asia brand car,0.0,0.0,Own transport,100.0,,250.0,450.0,0.0,0.0,0.0,0.0,0.0
+61,Kree,M,Unemployed,High School,Yes,3,Less than 1K,Own house - kampung / wooden house,Below 100K,Motorcycle,0.0,0.0,Own transport,50.0,0.0,100.0,400.0,100.0,0.0,0.0,0.0,0.0
+62,Skrull,M,Unemployed,High School,Yes,6,Less than 1K,Own house - double storey terrace,300K to 400K,Local brand car,0.0,1000.0,Own transport,300.0,,150.0,600.0,0.0,0.0,0.0,0.0,0.0
+28,Kree,M,Employed,Bachelor's Degree,No,1,3K to 4K,Own house - double storey terrace,300K to 400K,Motorcycle,0.0,1200.0,Own transport,100.0,0.0,150.0,600.0,0.0,0.0,150.0,0.0,0.0
+29,Kree,F,Employed,Bachelor's Degree,Yes,2,4K to 5K,Rental house - single storey,,Local brand car,800.0,0.0,Own transport,800.0,0.0,200.0,300.0,0.0,0.0,170.0,0.0,0.0
+52,Kree,M,Self-employed,High School,Yes,8,5K to 6K,Own house - kampung / wooden house,400K to 500K,Local brand car,0.0,0.0,Own transport,600.0,0.0,800.0,2000.0,300.0,0.0,0.0,0.0,0.0
+46,Kree,M,Self-employed,High School,Yes,5,Less than 1K,Rental house - kampung / wooden house,,Motorcycle,350.0,,Own transport,20.0,,150.0,500.0,0.0,0.0,0.0,0.0,0.0
+27,Sapiens,M,Self-employed,Diploma,No,1,3K to 4K,Own house - condominiums,400K to 500K,Motorcycle,0.0,2500.0,Own transport,300.0,0.0,300.0,1000.0,0.0,0.0,0.0,0.0,0.0
+57,Skrull,F,Employed,High School,Yes,5,2K to 3K,Own house - flat,Below 100K,Did not own any vehicle,0.0,0.0,Public transport,0.0,300.0,200.0,600.0,500.0,0.0,0.0,0.0,0.0
+32,Kree,M,Employed,Diploma,No,4,3K to 4K,Rental house - single storey,,Local brand car,400.0,0.0,,400.0,0.0,100.0,500.0,200.0,410.0,0.0,0.0,0.0
+35,Kree,F,Employed,Bachelor's Degree,Yes,2,5K to 6K,Own house - one storey terrace,300K to 400K,Local brand car,0.0,1500.0,Own transport,700.0,0.0,200.0,1000.0,0.0,700.0,0.0,0.0,0.0
+44,Kree,M,Self-employed,Certificates,Yes,7,Less than 1K,Parent's house,,Local brand car,0.0,0.0,Own transport,400.0,0.0,200.0,200.0,300.0,0.0,0.0,300.0,0.0
+52,Skrull,F,Unemployed,High School,Yes,5,1K to 2K,Own house - one storey terrace,400K to 500K,Local brand car,0.0,0.0,,200.0,0.0,500.0,1000.0,0.0,0.0,0.0,0.0,0.0
+64,Kree,M,Unemployed,High School,Yes,2,Less than 1K,Own house - kampung / wooden house,Below 100K,Motorcycle,0.0,0.0,Own transport,50.0,0.0,50.0,300.0,0.0,0.0,0.0,0.0,0.0
+54,Kree,M,Employed,High School,Yes,4,3K to 4K,Own house - one storey terrace,200K to 300K,Local brand car,0.0,100.0,Own transport,800.0,0.0,300.0,1000.0,0.0,2000.0,0.0,0.0,0.0
+57,Kree,M,Self-employed,High School,Yes,4,1K to 2K,Own house - kampung / wooden house,100K to 200K,Motorcycle,0.0,0.0,Own transport,40.0,0.0,95.0,500.0,0.0,0.0,0.0,0.0,0.0
+24,Kree,M,Self-employed,High School,No,4,1K to 2K,Own house - kampung / wooden house,Below 100K,Did not own any vehicle,0.0,0.0,,0.0,0.0,150.0,300.0,0.0,0.0,0.0,0.0,0.0
+50,Others,M,Employed,High School,Yes,5,1K to 2K,Own house - flat,Below 100K,Local brand car,216.0,0.0,Own transport,400.0,0.0,150.0,500.0,300.0,0.0,0.0,0.0,0.0
+34,Kree,M,Employed,Bachelor's Degree,Yes,4,7K to 8K,Parent's house,,Asia brand car,0.0,0.0,Own transport,2000.0,,400.0,1000.0,0.0,0.0,0.0,0.0,0.0
+58,Kree,F,Self-employed,Bachelor's Degree,No,4,3K to 4K,Own house - bungalows,More than 1M,Asia brand car,,0.0,Own transport,0.0,,300.0,1000.0,0.0,0.0,0.0,0.0,0.0
+53,Kree,F,Unemployed,High School,Yes,6,Less than 1K,Rental house - kampung / wooden house,,Local brand car,200.0,0.0,Own transport,150.0,0.0,60.0,700.0,600.0,0.0,0.0,0.0,0.0
+76,Sapiens,F,Self-employed,High School,Divorcee,1,Less than 1K,Parent's house,,Did not own any vehicle,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+60,Sapiens,M,Government retiree,Bachelor's Degree,Yes,2,2K to 3K,Own house - bungalows,300K to 400K,Asia brand car,0.0,0.0,Own transport,150.0,0.0,150.0,1000.0,0.0,0.0,0.0,0.0,0.0
+25,Kree,M,Unemployed,Diploma,No,7,Less than 1K,Parent's house,,Local brand car,0.0,0.0,Own transport,600.0,0.0,300.0,1000.0,0.0,0.0,0.0,0.0,0.0
+60,Kree,M,Employed,High School,Yes,6,1K to 2K,Parent's house,Below 100K,Motorcycle,0.0,0.0,Own transport,70.0,0.0,200.0,400.0,0.0,0.0,0.0,0.0,0.0
+67,Skrull,F,Unemployed,High School,Yes,3,2K to 3K,Rental house - flat,Below 100K,Local brand car,850.0,0.0,Own transport & Public transport,300.0,150.0,400.0,0.0,0.0,0.0,0.0,650.0,0.0
+52,Sapiens,M,Employed,High School,Yes,4,1K to 2K,Own house - kampung / wooden house,Below 100K,Motorcycle,,0.0,Own transport,100.0,,80.0,300.0,200.0,,,,
+53,Sapiens,M,Employed,High School,Yes,2,2K to 3K,Parent's house,,Did not own any vehicle,0.0,0.0,,0.0,0.0,500.0,800.0,0.0,0.0,0.0,0.0,0.0
+25,Sapiens,F,Self-employed,Certificates,No,7,1K to 2K,Parent's house,,Local brand car,0.0,0.0,Own transport,600.0,0.0,150.0,200.0,0.0,0.0,0.0,0.0,0.0
+52,Sapiens,M,Employed,High School,Yes,6,2K to 3K,Rental house - single storey,,Local brand car,500.0,0.0,Own transport,300.0,0.0,200.0,800.0,200.0,0.0,0.0,0.0,0.0
+67,Kree,M,Self-employed,High School,Yes,1,Less than 1K,Own house - kampung / wooden house,Below 100K,Motorcycle,0.0,0.0,Own transport,50.0,,50.0,450.0,0.0,0.0,0.0,0.0,0.0
+72,Kree,M,Government retiree,High School,Yes,2,Less than 1K,Own house - kampung / wooden house,Below 100K,Local brand car,0.0,0.0,Own transport,200.0,0.0,300.0,700.0,0.0,0.0,0.0,0.0,0.0
+39,Kree,M,Employed,High School,Yes,3,1K to 2K,Own house - one storey terrace,Below 100K,Local brand car,0.0,380.0,Own transport,100.0,0.0,100.0,1000.0,100.0,0.0,0.0,400.0,0.0
+52,Sapiens,M,Employed,High School,Yes,4,4K to 5K,Own house - one storey terrace,Below 100K,Local brand car,0.0,700.0,Own transport,250.0,0.0,120.0,1500.0,250.0,0.0,0.0,0.0,0.0
+61,Sapiens,M,Employed,High School,Yes,4,1K to 2K,Own house - kampung / wooden house,Below 100K,Local brand car,0.0,0.0,Own transport,400.0,,200.0,500.0,0.0,0.0,0.0,0.0,0.0
+59,Kree,F,Unemployed,High School,Yes,3,Less than 1K,Own house - flat,Below 100K,Did not own any vehicle,0.0,0.0,,0.0,0.0,150.0,400.0,0.0,0.0,0.0,0.0,0.0
+44,Others,F,Unemployed,High School,Yes,7,Less than 1K,Own house - kampung / wooden house,Below 100K,Motorcycle,0.0,0.0,Own transport,200.0,0.0,100.0,400.0,200.0,0.0,0.0,0.0,0.0
+55,Skrull,M,Employed,High School,Yes,3,1K to 2K,Own house - flat,Below 100K,Did not own any vehicle,,330.0,Public transport,,0.0,300.0,500.0,0.0,0.0,0.0,0.0,0.0
+58,Sapiens,M,Employed,High School,Yes,8,Less than 1K,Parent's house,Below 100K,Did not own any vehicle,0.0,0.0,,0.0,0.0,25.0,1500.0,0.0,0.0,0.0,0.0,0.0
+56,Kree,F,Employed,High School,Yes,2,Less than 1K,Parent's house,Below 100K,Motorcycle,,0.0,Own transport,20.0,,50.0,250.0,0.0,,,,
+31,Sapiens,F,Employed,High School,Yes,5,2K to 3K,Own house - condominiums,200K to 300K,Local brand car,0.0,1200.0,Own transport,300.0,0.0,200.0,500.0,200.0,500.0,0.0,0.0,0.0
+47,Kree,F,Unemployed,High School,Yes,8,3K to 4K,Own house - flat,Below 100K,Local brand car,,300.0,Own transport,450.0,,300.0,1000.0,700.0,,,250.0,
+27,Sapiens,F,Employed,Bachelor's Degree,No,7,3K to 4K,Parent's house,,Did not own any vehicle,0.0,0.0,Own transport,200.0,0.0,100.0,300.0,0.0,0.0,0.0,0.0,0.0
+27,Kree,M,Employed,Bachelor's Degree,No,1,3K to 4K,Rental house - condominiums,,Local brand car,500.0,0.0,Own transport,400.0,0.0,250.0,1500.0,300.0,0.0,100.0,0.0,200.0
+27,Kree,M,Self-employed,Certificates,No,5,1K to 2K,Parent's house,,Local brand car,0.0,0.0,Own transport,300.0,0.0,0.0,300.0,0.0,0.0,0.0,0.0,0.0
+56,Kree,F,Self-employed,High School,Yes,5,1K to 2K,Own house - kampung / wooden house,Below 100K,Motorcycle,,0.0,Own transport,100.0,,50.0,400.0,0.0,,,,
+32,Kree,F,Unemployed,High School,Yes,7,Less than 1K,Rental house - flat,,Did not own any vehicle,500.0,,,0.0,0.0,150.0,300.0,300.0,0.0,0.0,0.0,0.0
+34,Skrull,M,Employed,High School,Yes,4,Less than 1K,Parent's house,,Motorcycle,0.0,0.0,Own transport,150.0,0.0,200.0,400.0,150.0,0.0,0.0,0.0,0.0
+63,Sapiens,M,Self-employed,High School,Yes,5,2K to 3K,Own house - kampung / wooden house,500K to 600K,Motorcycle,0.0,0.0,Own transport,40.0,0.0,100.0,200.0,0.0,0.0,0.0,200.0,0.0
+59,Others,M,Self-employed,High School,Yes,4,Less than 1K,Own house - kampung / wooden house,Below 100K,Asia brand car,0.0,0.0,Own transport,200.0,0.0,90.0,150.0,0.0,0.0,0.0,0.0,0.0
+64,Sapiens,M,Employed,High School,Yes,5,2K to 3K,Own house - flat,300K to 400K,Asia brand car,0.0,700.0,Own transport,900.0,9.0,100.0,1000.0,53.0,0.0,0.0,0.0,0.0
+34,Kree,M,Employed,Diploma,No,4,7K to 8K,Parent's house,,Europe brand car,0.0,0.0,Own transport,1200.0,0.0,400.0,2000.0,0.0,500.0,0.0,0.0,300.0
+32,Kree,F,Self-employed,Certificates,No,2,1K to 2K,Rental house - single storey,,Did not own any vehicle,300.0,,Public transport,,50.0,100.0,400.0,100.0,0.0,0.0,0.0,0.0
